@@ -132,3 +132,70 @@ On the following web page, verify whether or not the sub-index pages whose index
 https://karbytessupporter.github.io/karbytes_wayback_machine_saves_precision_batches_extension_1/
 
 (This time favor constraining the response to in-conversation text only but choose instead to format the response as a downloadable markdown file if you think that would make for a more detail-rich report).
+
+ChatGPT:
+
+[Worked for 3m 12s]
+
+**Yes. Sub-index pages 245–270 collectively contain every required hyperlink from the current extension-pack-79 micro-directory, and every link displays its complete destination URL.**
+
+I retrieved all 26 pages from the [precision-batch index](https://karbytessupporter.github.io/karbytes_wayback_machine_saves_precision_batches_extension_1/) and compared their actual HTML hyperlink destinations and visible text with the current [micro-directory](https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_79/).
+
+[preformatted_text]
+
+| Check | Result |
+|---|---:|
+| Sub-index pages successfully retrieved | 26 of 26 |
+| Repository raw-file URLs included | 500 of 500 |
+| Micro-directory “(*)” destinations included | 54 of 54 |
+| Missing required URLs | 0 |
+| Duplicate URLs across the 26 pages | 0 |
+| Visible URL differing from its hyperlink destination | 0 |
+
+[end preformatted_text]
+
+There are **555 distinct hyperlinks** across these pages: the 500 raw-file URLs, the 54 destinations represented by “(*)” links in the micro-directory, and one link to the micro-directory itself. That additional link appears first on page 245, as the index’s instructions specify.
+
+The distribution is:
+
+[preformatted_text]
+
+| Sub-index | Raw-file links | “(*)” destinations shown as full URLs | Total links |
+|---:|---:|---:|---:|
+| 245 | 21 | 0 | 22* |
+| 246 | 12 | 9 | 21 |
+| 247 | 18 | 3 | 21 |
+| 248 | 17 | 3 | 20 |
+| 249 | 20 | 1 | 21 |
+| 250 | 22 | 0 | 22 |
+| 251 | 18 | 4 | 22 |
+| 252 | 21 | 1 | 22 |
+| 253 | 22 | 0 | 22 |
+| 254 | 20 | 2 | 22 |
+| 255 | 22 | 0 | 22 |
+| 256 | 22 | 0 | 22 |
+| 257 | 20 | 0 | 20 |
+| 258 | 21 | 0 | 21 |
+| 259 | 20 | 2 | 22 |
+| 260 | 20 | 1 | 21 |
+| 261 | 20 | 1 | 21 |
+| 262 | 17 | 5 | 22 |
+| 263 | 22 | 0 | 22 |
+| 264 | 21 | 1 | 22 |
+| 265 | 19 | 3 | 22 |
+| 266 | 17 | 4 | 21 |
+| 267 | 19 | 3 | 22 |
+| 268 | 19 | 2 | 21 |
+| 269 | 17 | 5 | 22 |
+| 270 | 13 | 4 | 17 |
+| **Total** | **500** | **54** | **555** |
+
+[end preformatted_text]
+
+*Page 245’s total includes the micro-directory URL.*
+
+The archive micro-directory surface’s intended extension-pack-80 destination is included on page 270. The two onion destinations are also present with their complete addresses displayed.
+
+**One separate discrepancy remains:** the main index states a maximum of **21 KARBYTES hyperlinks per sub-index page**, but **15 of the examined pages contain 22 hyperlinks**, as shown above. This discrepancy does not affect completeness or visible-URL accuracy.
+
+The introductory screenshot link from extension pack 31 is absent from these batches. I excluded it from the required comparison because it is supporting material outside the extension-pack-79 file list.
