@@ -122,3 +122,13 @@ Understood. `raw_github_files_directory_KARBYTES_ULTIMATE_ARCHIVE.html` belongs 
 That archive repository’s single `index.html` supplies the live KARBYTES home page. After extension pack 80 is finalized, extension pack 81 will contain a new archive micro-directory HTML file representing the archive’s state during that next updating period.
 
 I’ll treat this placement and versioning arrangement as intentional in subsequent audits. The title discrepancy I reported concerns the HTML `<title>` value, which reads `raw_github_files_directory_KARLINA_OBJECT_extension_pack_80` while the page’s visible heading identifies `raw_github_files_directory_KARBYTES_ULTIMATE_ARCHIVE`. The repository placement and “(*)” destination are correct.
+
+karbytes:
+
+What I would like you to do now (just to be extra thorough with the interim auditing of the KARLINA_OBJECT_extension_pack_79 micro-directory) is the following…
+
+On the following web page, verify whether or not the sub-index pages whose index numbers are numbered 245 to 270 contain all of the aforementioned hyperlinks with the one exception being that the links may appear in a different order than how they appear in the respective micro-directory (i.e. KARLINA_OBJECT_extension_pack_79) and each of the sub-index hyperlinks display the full URL they point to as their visible components:
+
+https://karbytessupporter.github.io/karbytes_wayback_machine_saves_precision_batches_extension_1/
+
+(This time favor constraining the response to in-conversation text only but choose instead to format the response as a downloadable markdown file if you think that would make for a more detail-rich report).
