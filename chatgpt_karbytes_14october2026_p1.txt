@@ -96,3 +96,47 @@ On the following web page, verify whether or not the sub-index pages whose index
 https://karbytessupporter.github.io/karbytes_wayback_machine_saves_precision_batches_extension_1/
 
 (This time favor constraining the response to in-conversation text only but choose instead to format the response as a downloadable markdown file if you think that would make for a more detail-rich report).
+
+ChatGPT:
+
+[Worked for 3m 19s]
+
+**Pages 272 and 273 contain every required unique URL, but one link fails the full-URL display requirement.** Page 273 also exceeds the index’s stated limit of 21 hyperlinks per sub-index page.
+
+I compared both pages with the current [extension-pack-80 micro-directory](https://karlinarayberinger.github.io/KARLINA_OBJECT_extension_pack_80/) and the repository’s 33-file inventory. Both sub-index pages returned HTTP 200.
+
+[preformatted_text]
+
+| Sub-index | Raw-file links | Destinations represented by “(*)” in the micro-directory | Micro-directory URL | Total links | Display full destination URL |
+|---|---:|---:|---:|---:|---:|
+| [272](https://karbytessupporter.github.io/karbytes_wayback_machine_saves_precision_batches_extension_1/sub-index_page_272.html) | 19 | 0 | 1 | 20 | 20 of 20 |
+| [273](https://karbytessupporter.github.io/karbytes_wayback_machine_saves_precision_batches_extension_1/sub-index_page_273.html) | 14 | 8 | 0 | 22 | 21 of 22 |
+| **Combined** | **33** | **8** | **1** | **42** | **41 of 42** |
+
+[end preformatted_text]
+
+The combined link collection has:
+
+- **No missing raw-file URLs:** all 33 repository files are represented.
+
+- **No missing “(*)” destinations:** all eight are represented.
+
+- **No unexpected destinations or duplicate URLs.**
+
+- The micro-directory’s own URL as the first hyperlink on page 272.
+
+The duplicate screenshot entry previously identified in the micro-directory appears once across these sub-index pages. Its destination is fully covered.
+
+The two discrepancies are:
+
+1. **One hyperlink on page 273 still displays `(*)`.**  
+   
+Its actual destination is correct:
+
+[https://karbytessupporter.github.io/karbytes_wayback_machine_saves_precision_batches_extension_0/](https://karbytessupporter.github.io/karbytes_wayback_machine_saves_precision_batches_extension_0/)
+
+Replace that hyperlink’s visible `(*)` label with the full URL above. Every other hyperlink on pages 272 and 273 already displays exactly the URL it points to.
+
+2. **Page 273 contains 22 hyperlinks, exceeding the stated maximum of 21.**  
+   
+The parent index explicitly states that maximum. Page 272 currently has 20 links, so moving one standalone raw-file link from page 273 to page 272 would give **21 links on each page**, preserving complete coverage. For example, `chatgpt_karbytes_14october2026_p1.txt` could be moved.
