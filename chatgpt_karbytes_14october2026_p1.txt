@@ -155,6 +155,70 @@ Finally, point out any discrepancies you notice while completing the requested t
 
 (This time favor constraining the response to in-conversation text only but choose instead to format the response as a downloadable markdown file if you think that would make for a more detail-rich report).
 
+ChatGPT:
+
+[Worked for 4m 39s]
+
+**All 37 current repository files are linked correctly, including the four newly added PNG files. All eight “(*)” links also reach the correct pages.** The duplicate entry and previously identified inconsistencies within linked pages remain.
+
+I checked the [updated micro-directory](https://karlinarayberinger.github.io/KARLINA_OBJECT_extension_pack_80/) against [repository commit `7f6959e`](https://github.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_80/tree/7f6959eeeb979ad3c35385da3bcd2e9b80dd8b15).
+
+[preformatted_text]
+
+| Check | Result |
+|---|---|
+| Repository files | 37 |
+| Raw-file hyperlink occurrences | 38 |
+| Unique raw-file destinations | 37 |
+| Repository files missing from the micro-directory | 0 |
+| Incorrect or nonexistent raw-file destinations | 0 |
+| Raw-file links whose displayed URL differs from their destination | 0 |
+| “(*)” links | 8; all correct |
+
+[end preformatted_text]
+
+I downloaded all 37 unique raw-file destinations. Every request returned HTTP 200, and every file’s size and Git blob hash matched the repository. The published micro-directory also matched the current `index.html`. Its unique raw-file entries follow the repository’s file-list order.
+
+The four new files matching `karbytes_wordpress_dot_com_websites_set_to_free_plan_13october2026_p*.png`—specifically `p0` through `p3`—all passed these checks.
+
+Each “(*)” destination returned HTTP 200 and served HTML **identical byte for byte to its corresponding raw HTML file**:
+
+[preformatted_text]
+
+| “(*)” destination | Result |
+|---|---|
+| [raw_github_files_directory_KARBYTES_ULTIMATE_ARCHIVE](https://karlinarayberinger.github.io/KARLINA_OBJECT_extension_pack_80/raw_github_files_directory_KARBYTES_ULTIMATE_ARCHIVE.html) | Correct |
+| [chatgpt_karbytes_14october2026_a0](https://karlinarayberinger.github.io/KARLINA_OBJECT_extension_pack_80/unlisted_web_page_chatgpt_karbytes_14october2026_a0.html) | Correct |
+| [journal_karbytes_14october2026_a0](https://karlinarayberinger.github.io/KARLINA_OBJECT_extension_pack_80/unlisted_web_page_journal_karbytes_14october2026_a0.html) | Correct |
+| [karbytes_social_media_posts_koep80](https://karlinarayberinger.github.io/KARLINA_OBJECT_extension_pack_80/unlisted_web_page_karbytes_social_media_posts_koep80.html) | Correct |
+| [Precision batches extension 0](https://karbytessupporter.github.io/karbytes_wayback_machine_saves_precision_batches_extension_0/) | Correct |
+| [Precision batches extension 1](https://karbytessupporter.github.io/karbytes_wayback_machine_saves_precision_batches_extension_1/) | Correct |
+| [Original precision batches index](https://karbytessupporter.github.io/karbytes_wayback_machine_saves_precision_batches/) | Correct |
+| [mdisc_karbytes2026_9](https://karlinarayberinger.github.io/KARLINA_OBJECT_extension_pack_80/unlisted_web_page_mdisc_karbytes2026_9.html) | Correct |
+
+[end preformatted_text]
+
+The discrepancies still present are:
+
+1. **Duplicate entry in the micro-directory.**  
+   
+`github_karbytessupporter_profile_pinned_repositories_13october2026.png` appears twice consecutively. Both entries correctly link to the same file.
+
+2. **Incorrect browser-tab title in the archive micro-directory page.**  
+   
+`raw_github_files_directory_KARBYTES_ULTIMATE_ARCHIVE.html` still has the title `raw_github_files_directory_KARLINA_OBJECT_extension_pack_80`, while its visible heading and repository information identify `KARBYTES_ULTIMATE_ARCHIVE`.
+
+3. **Incorrect introductory source-file label in the journal page.**  
+   
+`journal_karbytes_14october2026_a0` displays `chatgpt_karbytes_13october2026_p2.txt` as its introductory source hyperlink’s label, although the destination is `journal_karbytes_05october2026_p0.txt`. The visible label should match that journal filename.
+
+4. **Duplicated prefix in the journal page’s displayed image URL.**  
+   
+The `image_link` text repeats the raw-GitHub repository prefix twice. The actual hyperlink destination and image `src` use the unduplicated URL.
+
+5. **Incorrect macro-directory references in four linked pages.**  
+   
+The ChatGPT, journal, social-media-posts, and M_DISC pages listed above still identify and link to `NEW_MACRO-DIRECTORY_PAGE_0`. Extension pack 80 is listed on [NEW_MACRO-DIRECTORY_PAGE_1](https://karlinarayberinger.github.io/KARBYTES_ULTIMATE_ARCHIVE/new_macro-directory_page_1.html), while page 0 contains no extension-pack-80 entry. Those four introductory labels and destinations should point to page 1.
 
 
 
