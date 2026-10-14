@@ -244,3 +244,35 @@ https://karbytessupporter.github.io/karbytes_wayback_machine_saves_precision_bat
 
 (This time favor constraining the response to in-conversation text only but choose instead to format the response as a downloadable markdown file if you think that would make for a more detail-rich report).
 
+ChatGPT:
+
+[Worked for 3m 30s]
+
+**Pages 272–274 pass both requested checks:** they contain every unique raw-file and “(*)” destination from the current micro-directory, and every hyperlink displays exactly the full URL it points to.
+
+I checked the live pages against the [current micro-directory](https://karlinarayberinger.github.io/KARLINA_OBJECT_extension_pack_80/) and the repository’s 37-file inventory at approximately 8:10 PM Pacific time on 13 October 2026.
+
+[preformatted_text]
+
+| Sub-index page | Raw-file URLs | “(*)” destinations | Micro-directory URL | Total links |
+|---|---:|---:|---:|---:|
+| [272](https://karbytessupporter.github.io/karbytes_wayback_machine_saves_precision_batches_extension_1/sub-index_page_272.html) | 19 | 0 | 1 | 20 |
+| [273](https://karbytessupporter.github.io/karbytes_wayback_machine_saves_precision_batches_extension_1/sub-index_page_273.html) | 13 | 8 | 0 | 21 |
+| [274](https://karbytessupporter.github.io/karbytes_wayback_machine_saves_precision_batches_extension_1/sub-index_page_274.html) | 5 | 0 | 0 | 5 |
+| **Combined** | **37** | **8** | **1** | **46** |
+
+[end preformatted_text]
+
+Across these three pages, I found:
+
+- **No missing destinations:** all 37 raw files and all eight “(*)” destinations are included.
+
+- **No displayed-URL mismatches:** all 46 labels match their actual hyperlink destinations.
+
+- **No unexpected or duplicate destinations.**
+
+- **No inaccessible sub-index pages:** all three returned HTTP 200.
+
+The two earlier sub-index issues have been corrected: page 273’s former `(*)` label now displays its full destination URL, and page 273 now contains 21 links. All three pages comply with the parent index’s stated maximum of 21 links per page.
+
+Page 274 contains the `_p1.png` GitHub-profile screenshot and all four newly added WordPress-plan screenshots. The micro-directory’s repeated screenshot URL is represented once across the batches; its destination is fully covered.
