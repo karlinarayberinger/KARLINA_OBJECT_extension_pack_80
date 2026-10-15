@@ -1024,7 +1024,7 @@ Understood. You created every file featured in this conversation, and every depi
 
 karbytes:
 
-Using the web page which I most recently asked you to summarize in this conversation, print just karbytes' spoken words (as those words were transcribed by ChatGPT in that web page) which occurred in the following video. For that video, print all of what was transcribed minus time stamps and other extraneous content:
+Using the transcription you already produced in this conversation, print just karbytes' spoken words (as those words were transcribed by ChatGPT in that web page) which occurred in the following video. For that video, print all of what was transcribed minus time stamps and other extraneous content:
 
 https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_80/main/obs_studio_recording_karbytes_15october2026_p1.mp4
 
