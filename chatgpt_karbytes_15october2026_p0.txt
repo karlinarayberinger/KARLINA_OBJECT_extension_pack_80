@@ -568,3 +568,52 @@ https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pa
 
 (Keep your response constrained to this chat rather than generating a downloadable markdown file).
 
+ChatGPT:
+
+[Worked for 1m 22s]
+
+All right, it is October 12th, 2026, and I’m testing the microphone feature of OBS Studio, and I’m going to show how KARBYTES is expanding.
+
+So right now this is still in development, but I should probably show what’s going on. I haven’t updated this homepage of Karbytes For Life Blog since the 23rd of September, 2026, apparently, but there’s been some development going on beneath the surface.
+
+So officially, I haven’t completed a canon KARBYTES update since 4:39 p.m. Pacific Standard Time on 23 September 2026. So here is the first raw GitHub files macro-directory. It contains links to all the files in KARBYTES up to a certain point, up until it branches off to a GitHub dot io expansion of KARBYTES, because there’s problems with WordPress.
+
+The problem with WordPress is if I were to die or something bad happened to me such that I wasn’t able to continue updating the KARBYTES WordPress sites, then after the paid plan expires, which I’m using now to keep this ad-free, it will be automatically set to private until someone logs in and sets it back to public.
+
+I want this to stay public at all times, so I contacted the WordPress agent, and the agent—it’s a robot—said that all I can really do is keep renewing my paid plan if I want to stay public at all times. There’s no way to change the setting or the condition of it switching to private.
+
+That’s just something I have to put up with. So what I decided I’ll do is allow the plans, the paid plans for both Karlina Object dot WordPress dot com and Karbytes For Life Blog dot WordPress dot com, to expire. So that’s going to happen by the end of the year 2027. Then there’s going to be ads.
+
+I won’t be growing those websites anymore, so I don’t need to keep buying more storage for more media files and for more pages of that site, because it’s not going to be growing anymore. But what will be growing is the extension that goes into a @karlinarayberinger hosted GitHub dot io website chain.
+
+So I already have such a website chain. I’ll show you what I mean. So the first thing that’s known to actually be successful that I’ve created, which can be expanded indefinitely, is this Wayback Machine saves external site.
+
+It’s not technically part of KARBYTES, but some of the files are included. This is basically external, but it helps me save the files of KARBYTES to the Wayback Machine more effectively, because each of these subdirectories or subindexes only has about twenty-one or less URLs on it, because if there’s more than that, then not all of the URLs on that page are guaranteed to be saved.
+
+And oftentimes whenever I save a batch of URLs at once through the Wayback Machine, some of them don’t get saved the first time. So if I really want that particular file to get saved, I have to kind of force-save it multiple times to get it to actually save. And then I run into limits, so I have to wait for the limits and all that.
+
+But yeah, I’m trying to just optimize my use of time. So what I mean by chaining—let’s see, [unclear]—I have plenty of time. What I mean by chaining is this.
+
+Basically, this is a GitHub dot io website, and that means it’s hosted from one GitHub repository, a public one, and that repository can only get so big before it starts to have performance issues. So even though they say you can let it grow indefinitely, I still think there is a hard limit to how big things can get before there’s actual issues that are not desirable.
+
+So anyway, this is the first page, or the first website, of that chain. The next one is extension zero, and this is all my genome data. And then the next one after that is the most current of what I’m currently developing before it branches off away from WordPress.
+
+There’s some things I’ll be discontinuing, like I’m probably not going to be making another extension to the KARBYTES_CODE_CONTINUES, because all it is is just redundantly listing all the GitHub repositories of the microdirectories, and that’s kind of already said in the microdirectories. It’s kind of redundant, a waste of time. It’s just extra hassle.
+
+Anyway, the new thing is this. It’s the KARBYTES_ULTIMATE_ARCHIVE homepage. This is basically the new homepage of KARBYTES, and all three of the KARBYTES websites are listed here. It’s very clean. I cut out a bunch of fluff.
+
+This is kind of like my forever home with a website now, because I don’t have to worry about it going private. It’s going to be public forever. I have a lot of control over it, and it could be expanded indefinitely because it uses that modular system, like what I was showing you with the other website, which is from @karbytessupporter GitHub, not @karlinarayberinger.
+
+@karlinarayberinger is the official GitHub account associated with KARBYTES, but @karbytessupporter—still me—but it’s basically to kind of use as reinforcement of KARBYTES, so that there’s at least one other GitHub account helping me keep things compartmentalized, have kind of a process, and experiment.
+
+It’s actually fun to experiment with different workflows and things like that. I get really into it. Sometimes the lore is created out of it, but we don’t have to always repeat the same ritual excursions.
+
+This is the oldest website of KARBYTES. This was developed approximately in the year 2020, so it was officially established on 03 April 2020. And then the next website after that one is the one that I thought would keep growing until I realized there’s WordPress issues. And I already was kind of not all that happy with the baggage with using WordPress, so I like having more control and streamlining things with GitHub only.
+
+It just means it’s not going to be as social-media-friendly, because with WordPress it’s easy to share things as blog posts that actually have thumbnails. So I’ll have to manually upload pictures if I want to have something other than just a URL. Probably that’s the only thing that appears instead of a thumbnail, unless I go to the trouble of trying to make the website have special formatting. But I’m not doing that. I’m trying to keep it very bare-bones. It just has a tiny stylesheet file.
+
+Yes, well, without further ado, I should probably get to that website, the third website of KARBYTES. Here it is, the third website of KARBYTES.
+
+It defines what KARBYTES is, what is KARBYTES, all uppercase letters, and what is karbytes, all lowercase letters. Explains it in plain English. Links to my social-media profiles, my email addresses.
+
+I took away the PayPal donation link because I’m kind of making it look like it’s post-mortem.
