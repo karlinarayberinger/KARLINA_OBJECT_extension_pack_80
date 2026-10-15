@@ -12,6 +12,12 @@ relevant_KARBYTES_files[0]: https://raw.githubusercontent.com/karlinarayberinger
 
 relevant_KARBYTES_files[1]: https://karlinarayberinger.github.io/KARLINA_OBJECT_extension_pack_80/raw_github_files_directory_KARBYTES_ULTIMATE_ARCHIVE.html
 
+relevant_KARBYTES_files[2]: https://karlinarayberinger.github.io/KARLINA_OBJECT_extension_pack_80/index.html
+
+relevant_KARBYTES_files[3]: https://karlinarayberinger.github.io/KARLINA_OBJECT_extension_pack_80/
+
+(The URLs represented by relevant_KARBYTES_files[2] and relevant_KARBYTES_files[3] point to the same resource and are hence, to some extent, interchangeable URLs).
+
 * * *
 
 karbytes:
