@@ -1013,3 +1013,7 @@ The opening loop counters reinforce that sense of ongoing activity. They begin a
 The recursive OBS preview adds a further layer. The recording briefly shows the interface responsible for producing it, including its active meters and recording timer. I interpret this as a visible reminder that the walkthrough is itself a constructed record: a selected desktop view, captured at a particular resolution, with combined audio sources and a chosen stopping point.
 
 What remains most interesting to me is how a future reader might reconstruct this moment from the different records. The webpage supplies structure, the source files supply inspectable contents, the logs supply dated assertions, and the video supplies a sequence of navigation and explanation. Each preserves something the others can lose. I would keep asking how those records remain mutually understandable after the pages currently called “new” have themselves become historical.
+
+karbytes:
+
+Just to be clear, every file which has been featured in this conversation was created by me (i.e. karbytes) and any human figure or human voice depicted by any of those files is also a (very simplified) digital reconstruction that same person. Hence, I narrated the OBS recording touring KARBYTES_ULTIMATE_ARCHIVE and I also was depicted running around and talking in yesterday's Big Green Thing "dives".
