@@ -16,6 +16,8 @@ relevant_KARBYTES_files[2]: https://raw.githubusercontent.com/karlinarayberinger
 
 relevant_KARBYTES_files[3]: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_80/main/karbytes_in_the_big_green_thing_14oct2026_p3.mp4
 
+relevant_KARBYTES_files[4]: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_80/main/karbytes_in_the_big_green_thing_14oct2026_p7.mp4
+
 * * *
 
 karbytes:
@@ -173,3 +175,11 @@ Golden hour. This is it.
 The photographer’s dream.
 
 Here’s the roller coaster.
+
+karbytes:
+
+Using the web page which I asked you to summarize in the first request of this conversation, print just karbytes' spoken words (as those words were transcribed by ChatGPT in that web page) which occurred in the following video. For that video, print all of what was transcribed minus time stamps and other extraneous content:
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_80/main/karbytes_in_the_big_green_thing_14oct2026_p7.mp4
+
+(Keep your response constrained to this chat rather than generating a downloadable markdown file).
