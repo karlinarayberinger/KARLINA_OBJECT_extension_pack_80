@@ -26,6 +26,8 @@ relevant_KARBYTES_files[7]: https://raw.githubusercontent.com/karlinarayberinger
 
 relevant_KARBYTES_files[8]: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_79/main/obs_studio_recording_karbytes_11october2026_p1.mp4
 
+relevant_KARBYTES_files[9]: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_78/main/obs_studio_recording_14september2026_p0.mp4
+
 * * *
 
 karbytes:
@@ -405,3 +407,12 @@ ChatGPT:
 [Worked for 51s]
 
 No spoken words were reliably transcribed for this video in the web page.
+
+karbytes:
+
+Using the second web page which I asked you to summarize in this conversation, print just karbytes' spoken words (as those words were transcribed by ChatGPT in that web page) which occurred in the following video. For that video, print all of what was transcribed minus time stamps and other extraneous content:
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_78/main/obs_studio_recording_14september2026_p0.mp4
+
+(Keep your response constrained to this chat rather than generating a downloadable markdown file).
+
