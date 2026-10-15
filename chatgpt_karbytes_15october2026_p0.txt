@@ -1029,3 +1029,35 @@ Using the transcription you already produced in this conversation, print just ka
 https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_80/main/obs_studio_recording_karbytes_15october2026_p1.mp4
 
 (Keep your response constrained to this chat rather than generating a downloadable markdown file).
+
+ChatGPT:
+
+Alright, today is 15th of October, 2026, at approximately 10:25 AM Pacific Standard Time.
+
+Right now I’m listening to two audio tracks playing simultaneously from an app that I created called SOUND_TRACK_LOOPER_TWO. That is available in the software engineering section of Karbytes For Life Blog dot WordPress dot Com.
+
+As I’m saying in a blog post, which I’m currently working on with ChatGPT, Karbytes For Life Blog is closed to further edits, so it hasn’t been updated since 13 October, 2026, at approximately 2:14 PM Pacific Standard Time.
+
+But the new website of KARBYTES is open to further edits.
+
+Here is the homepage of KARBYTES, and possibly this is the last time it’s going to be updated. Oh, I do notice a mistake down here. I accidentally changed the value from 13 or 12 to 15. This should be 15; that should be 12 or 13. Well, I’ll fix that.
+
+Anyway, what I wanted to show you is what I did to change the KARBYTES_ULTIMATE_ARCHIVE. So, what I did, the significant change I made was I added a link back to the start page on the macro-directory part of this website.
+
+So the negative-one index goes back to a legacy raw GitHub files macro-directory. Pretty much everything in KARBYTES up until this website became closed to further edits is available in this macro-directory, and the new macro-directory is at index zero. It links back to itself at index zero. Index one expands to new content.
+
+And I highlighted this cyan to kind of imply that a link to the homepage of KARBYTES is in there. And there it is.
+
+So the newest content so far is at index two. Index one links to itself. Index two leads to this, which is the raw GitHub files extension pack content for eighty. Sorry, I messed that up. It’s a long-winded title page.
+
+Remember, when you see asterisks like this, they link to live webpages, and to the left of them is the source code, usually, unless it’s a kind of Easter egg, but I really don’t do that anymore.
+
+There’s no hidden compartments, so I try to make everything very streamlined and consistent and easy to organize.
+
+But pretty soon, probably today, I’m going to be closing this micro-directory and then opening eighty-one, because I want eighty to kind of be almost like a template for future micro-directories, because it does a good job keeping track of kind of the essential files I would want to have in each micro-directory from now on.
+
+For instance, the logging files. Here is a new logging file for the new website. This shows the latest update that was made at approximately 9:37 AM Pacific Standard Time on 15 October, 2026.
+
+There’s other logging files, like the social media files, social media logging. So every time I publish a webpage of KARBYTES on a social media platform as a blog post, I log that update here in a file named karbytes_social_media_posts.txt.
+
+So, I just wanted to show kind of the main updates. I’ll go ahead and fix that typo on the homepage.
