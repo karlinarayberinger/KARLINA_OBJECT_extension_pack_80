@@ -34,6 +34,8 @@ relevant_KARBYTES_files[11]: https://raw.githubusercontent.com/karlinarayberinge
 
 relevant_KARBYTES_files[12]: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_79/main/karbytes_thinking_12october2026_p1.mp4
 
+relevant_KARBYTES_files[13]: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_79/main/obs_studio_recording_karbytes_12october2026_p0.mp4
+
 * * *
 
 karbytes:
@@ -557,3 +559,12 @@ ChatGPT:
 Understood. Both occurrences of “karbytes supporter” in the latest transcript should read “@karbytessupporter.”
 
 I’ll use @karlinarayberinger, @karbytessupporter, and @informationcrystals when referring to those GitHub accounts.
+
+karbytes:
+
+Using the web page which I most recently asked you to summarize in this conversation, print just karbytes' spoken words (as those words were transcribed by ChatGPT in that web page) which occurred in the following video. For that video, print all of what was transcribed minus time stamps and other extraneous content:
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_79/main/obs_studio_recording_karbytes_12october2026_p0.mp4
+
+(Keep your response constrained to this chat rather than generating a downloadable markdown file).
+
