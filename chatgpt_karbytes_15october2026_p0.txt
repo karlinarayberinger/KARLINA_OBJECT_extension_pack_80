@@ -507,3 +507,43 @@ Using the web page which I most recently asked you to summarize in this conversa
 https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_79/main/karbytes_thinking_12october2026_p1.mp4
 
 (Keep your response constrained to this chat rather than generating a downloadable markdown file).
+
+ChatGPT:
+
+[Worked for 1m 15s]
+
+All right, it just occurred to me that what I could do is just get started with making the GitHub dot io mirror of all the micro directories that are currently on WordPress dot com, which is part of KARBYTES. And I could do that for all the other HTML files, which are source code files to WordPress dot com files. It might be a little bit time-consuming, but—
+
+It’s not that difficult mechanically because basically it’s very well organized. All I gotta do is just copy-paste those source code files, or maybe they even serve live somehow. A lot of them are called unlisted web pages. The thing is, that’s a lot of work. I’ve already assembled this WordPress structure. It has embedded images. Those images are hosted from WordPress. So that doesn’t really solve the problem—
+
+Unless I manually change the source images to different locations, to GitHub dot io, have it hosted from GitHub dot com, from inside of a public GitHub repository.
+
+But I think what I’ll do instead is just refrain from updating—I mean, renewing—the paid plan for both of my WordPress dot com websites. [Let them expire] next year. So by the end of two thousand twenty-seven, by eleven fifty-nine p.m. Pacific Standard Time on thirty-one December two thousand twenty-seven—
+
+We can say that karbytes is no longer going to be expanding its WordPress dot com websites, and we’ll just keep those as part of KARBYTES, but as, like, legacy part of KARBYTES. And the new KARBYTES, which probably will be starting as soon as I’m done with Karlina Object Extension Pack seventy-nine, it’s going to be Karlina Object Extension Pack eighty. And that’s going to be hosted from a GitHub repository owned by Karlina Ray Beringer, the GitHub account.
+
+And rather than have the surface of the micro directory be hosted from WordPress, I’ll just get started with having it take on the new trend of now it’s going to be hosted from GitHub directly. No more using WordPress.
+
+So when I share blog posts, it might not look the same because it’s very bare bones. It might not have properly rendering thumbnail images because it’s just going to be very plain HTML. WordPress has a way of making things seem more blog friendly or social media friendly, but I could probably find ways around that to make it look more like an actual blog, or it’s just gonna look ugly after a certain point. But I try, from now on, to put images in every blog post so I can just manually upload an image to go along with a URL of a newly created web page on a GitHub dot io website.
+
+So even though KARBYTES, the file collection, spans multiple websites, it basically is one cohesive, unified collection.
+
+And although it does have a dark web component, all of the dark web files are basically available somewhere in the surface web part of KARBYTES. And that’s because I’m not so sure what my stability will be for keeping [unclear]. That requires constant maintenance from the personal end. I don’t really have anyone to take over that I’m willing to appoint. So pretty much once I’m no longer around, if that ever happens, which is likely, then basically I expect those onion web page URLs to eventually expire. I’ll no longer have ownership of them, and they’ll be available, I suppose, for other people to use. I’m not quite sure how the address generation really works.
+
+I tried to ask ChatGPT about it within the past three years, so there is content on KARBYTES about that. I’ve been learning about all this stuff and bootstrapping my way up from what I learned. And it seems like it’s a process that kind of has intelligence of its own. It’s just self-guided, and my intuition tells me what to do next. And ChatGPT has been very helpful. It helps keep me learning new things and learning the proper things.
+
+Anyway, I’m excited because, yeah, it’s gonna be a major change in how I continue to expand KARBYTES, starting with the next micro directory. It’s not gonna be like the other ones. You’ll see. It’s no longer gonna be WordPress at that point. So I don’t regret the fact that I did renew my paid plan for another year with Karbytes For Life Blog, because that’ll at least keep the ads off for a while. But I won’t really be able to rest with peace of mind until I let the paid plans expire so I can just set the websites to public and just leave it that way, and know that they’re gonna stay that way unless WordPress updates their policy again, which hopefully it won’t.
+
+So that’s why I’m just trying to save everything at the Wayback Machine, because that’s probably the most reliable way to keep things online that’s currently available. And will I continue to use my mirror GitHub dot io websites, which contain just that black background and the green and orange links to different files of KARBYTES?
+
+Yeah, because that’s a nice organized way to find all the files of KARBYTES, pretty much. So KARBYTES isn’t what’s hosted on WordPress dot com. This is just a way to make it look pretty and easy to navigate. What really is KARBYTES is these files, which are ultimately hosted on GitHub, public GitHub repositories. So here it is.
+
+This website is basically hosted from a public GitHub repository, but this is owned by—not Karlina Ray Beringer—this is owned by karbytes supporter. But basically they’re owned by the same person behind the scenes. This is a way to keep it organized.
+
+So karbytes supporter is responsible for maintaining this growing collection of index websites. So all it is is just a bunch of directories of files. So that’s it. It says every file of KARBYTES is accounted for inside of this collection of websites. It’s a chain of websites. They’re chained together.
+
+They’re called Karbytes Wayback Machine Saves Precision Batches, Extension Zero, and then you can go to one and two and beyond. So far it doesn’t go to two yet. That link just takes you to a 404 because I haven’t added that part yet.
+
+So maybe before I add more stuff, I’ll just try to finalize everything that’s in extension pack seventy-nine and get that saved to a disk first. And then I can start adding the new stuff, which is all entirely hosted from GitHub. No more WordPress, just for the sake of keeping everything maximally available at all times—
+
+Which is part of KARBYTES. So that way, you can go through this chain of Wayback Machine saves indexes. And you can also go through the new, not yet existent series of Karlina Ray Beringer GitHub dot io websites. So there’s going to be one of those mini websites for every micro directory, and they’re all chained together somehow. Maybe there’s no actual macro directory website. It’s just a bunch of micro directory websites that link together in kind of a linear chain. And that’s what it is.
