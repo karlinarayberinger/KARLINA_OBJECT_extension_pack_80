@@ -12,6 +12,8 @@ relevant_KARBYTES_files[0]: https://karlinarayberinger.github.io/KARLINA_OBJECT_
 
 relevant_KARBYTES_files[1]: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_80/main/karbytes_in_the_big_green_thing_14oct2026_p0.mp4
 
+relevant_KARBYTES_files[2]: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_80/main/karbytes_in_the_big_green_thing_14oct2026_p1.mp4
+
 * * *
 
 karbytes:
@@ -71,3 +73,11 @@ Oh, and by the way, if these cow patties dry, they can be used as fuel for fires
 There they are, the cows.
 
 Well, I’m trying not to make the data size grow too fast, so I should probably end this video soon.
+
+karbytes:
+
+Using the web page which I asked you to summarize in the previous request of this conversation, print just karbytes' spoken words (as those words were transcribed by ChatGPT in that web page) which occurred in the following video. For that video, print all of what was transcribed minus time stamps and other extraneous content:
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_80/main/karbytes_in_the_big_green_thing_14oct2026_p1.mp4
+
+(Keep your response constrained to this chat rather than generating a downloadable markdown file).
