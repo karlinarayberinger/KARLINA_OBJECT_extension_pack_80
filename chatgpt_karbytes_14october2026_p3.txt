@@ -28,6 +28,8 @@ relevant_KARBYTES_files[8]: https://raw.githubusercontent.com/karlinarayberinger
 
 relevant_KARBYTES_files[9]: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_80/main/karbytes_in_the_big_green_thing_14oct2026_p7.mp4
 
+relevant_KARBYTES_files[10]: https://karbytesforlifeblog.wordpress.com/the_cosmos_as_fundamentally_digital/
+
 * * *
 
 karbytes:
@@ -1529,3 +1531,13 @@ Understood. You meant that computation, with some form of experience intrinsic t
 My earlier commentary recognized the information-processing theme but missed the experiential dimension you intended. With your clarification, I would read the ending through computational panpsychism: the landscape, your embodied activity, the recording device, and the systems processing the recording could all participate in a fundamentally computational and experiential reality.
 
 Your archiving practice could consequently be interpreted as that reality recording, organizing, and interpreting portions of itself. That connection is my extrapolation; your clarification leaves the particular form of computational panpsychism open.
+
+karbytes:
+
+The following older KARBYTES web page discusses the possibility that all phenomena are fundamentally comprised of digital information and that change in phenomena occurs as a result of underlying algorithmic logic which allows a relatively small amount of information to be filtered through some frame of reference while the information which is not filtered through remains noumenal from that frame of  reference's perspective...
+
+Generate a maximally detailed (plain-text only, zero-url) essay summarizing the following document:
+
+https://karbytesforlifeblog.wordpress.com/the_cosmos_as_fundamentally_digital/
+
+(This time favor constraining the response to in-conversation text only but choose instead to format the response as a downloadable markdown file if you think that would make for a more detail-rich report).
