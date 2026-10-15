@@ -551,3 +551,9 @@ Which is part of KARBYTES. So that way, you can go through this chain of Wayback
 karbytes:
 
 It should be noted that, in the context of this conversation (particularly the video I most recently asked you to retrieve the transcript of), karbytes supporter is supposed to appear as one one with no space character(s) nor any other delimiter(s) between karbytes and supporter. The KARBYTES-specific keyword karbytessupporter is the username of the GitHub account which essentially acts as reinforcement of the official KARBYTES GitHub repositories (which are owned by the GitHub user named karlinarayberinger). Usually, I preface the three GitHub user accounts pertaining to KARBYTES (named karlinarayberinger, karbytessupporter, and informationcrystals) with an at symbol (i.e. @) to help make it clear that what I am referring to is an online account rather than just the name of some person or entity.
+
+ChatGPT:
+
+Understood. Both occurrences of “karbytes supporter” in the latest transcript should read “@karbytessupporter.”
+
+I’ll use @karlinarayberinger, @karbytessupporter, and @informationcrystals when referring to those GitHub accounts.
