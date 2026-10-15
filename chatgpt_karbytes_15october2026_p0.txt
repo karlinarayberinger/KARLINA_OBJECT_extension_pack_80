@@ -32,6 +32,8 @@ relevant_KARBYTES_files[10]: https://karbytesforlifeblog.wordpress.com/chatgpt_k
 
 relevant_KARBYTES_files[11]: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_79/main/karbytes_thinking_12october2026_p0.mp4
 
+relevant_KARBYTES_files[12]: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_79/main/karbytes_thinking_12october2026_p1.mp4
+
 * * *
 
 karbytes:
@@ -467,5 +469,41 @@ karbytes:
 Using the web page which I most recently asked you to summarize in this conversation, print just karbytes' spoken words (as those words were transcribed by ChatGPT in that web page) which occurred in the following video. For that video, print all of what was transcribed minus time stamps and other extraneous content:
 
 https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_79/main/karbytes_thinking_12october2026_p0.mp4
+
+(Keep your response constrained to this chat rather than generating a downloadable markdown file).
+
+ChatGPT:
+
+[Worked for 55s]
+
+All right, while I’m on the subject, I decided to make a video. It’s kind of important. Right now, it is approximately 4:50 a.m., Pacific Standard Time, on 12 October 2026. It’s Monday, and as I finish up the ‘karbytes is stuck in Devil’s Hole’ section, [and/or] the transition from summer 2026 to fall 2026, I’ve been doing some research about what’s going to happen to my website, or two websites, Karlina Object dot WordPress dot Com and Karbytes For Life Blog dot WordPress dot Com, if and when I fail to renew their paid plans, which keep advertisements from being displayed on the web pages of those sites, and which enable me to keep adding more content due to increasing the storage size.
+
+So my plan is to let it expire eventually, because if I fail to do that, it basically [unclear] automatically set to Private in terms of visibility indefinitely, unless I go back in and manually reset it back to Public. So at a certain point I realize both of these WordPress websites are going to have to go to the Free plans so that they stay public. But the drawback is I can’t keep expanding them, and they’re going to have advertisements probably displayed in the margins of [a/the] website, which will clutter it up. But I like having the peace of mind of knowing that if I die, or something like that, if I become unavailable to manage my website Public/Private settings, [unclear] at least it’s public, so it doesn’t get set to Private indefinitely.
+
+But I’m also trying to save every page of these WordPress websites to the Wayback Machine, so there’s nice ad-free mirrors of that website on the Wayback Machine, at Archive dot Org, Internet Archive.
+
+So what I’m going to do to keep expanding KARBYTES is I’m going to make another GitHub dot io website, because that’s public. I don’t have to worry about fancy settings. It’s nice and bare bones. I can customize the CSS. So it’s a lot more flexible. It’s just a lot more practical for my needs, but it’s not going to have… Actually, I take that back. I can actually display images and embedded files. I actually have done it before. I made some demo GitHub dot io websites, which are on KARBYTES already. If you dig through the big giant macro directory, it’s somewhere in there, there’s a test website that shows an embedded playable video file.
+
+And, yeah, you see all the files, all the dependencies involved, inside of the GitHub repository which that GitHub dot io website is tied to. So it’s very nice and transparent, clean, easy for me to control, and doesn’t cost really any money. And I can keep expanding it in a modular manner, like how I am with the WordPress save links. So I made this GitHub dot io website, or chain of websites, so that way, if one repository for containing a website becomes too large, like larger than a gigabyte, I’ll make another website, but link it, so there’ll just be indefinitely many in this linked list of websites. So I can just keep expanding the number of files inside of KARBYTES, and I let each file not get too big so it can be saved to the Wayback Machine, so it can be rendered and sent, et cetera. It has to have a finite size, and it’s got to be the size that is manageable.
+
+So I’m looking forward to making KARBYTES more streamlined now that I know what’s required. So unfortunately I already did pay to renew Karbytes For Life Blog dot WordPress dot Com for another year, so I have until sometime around October of 2027 for the paid plan to expire. It’s the Personal plan, and then I won’t be expanding that anymore. Instead I’ll be doing some kind of bare-bones, highly customized, yet still very minimalist, GitHub dot io continuation of the KARBYTES blog platform.
+
+So it spans multiple domains, it spans WordPress dot Com, but I’m increasingly unhappy with how I can’t just keep it public in case something happens to me. I don’t like how it automatically goes to Private, and I talked to the WordPress help agent, and it said there’s nothing I can really do about it. That’s just the way it is. So, yeah, GitHub dot io allows a lot more flexibility and control over how I do this.
+
+So, as you see, I customized the CSS to make it black, kind of terminal appearance, monospace font. And, yeah, I’ll look for that test GitHub dot io website that I made to demonstrate. You can actually embed videos that are playable inside the browser, inside the webpage, playable through the browser without having to download anything.
+
+Here it is. This is like the spine of the website. Raw GitHub Files Macro Directory. It contains a link to every micro directory in KARBYTES. Up until I no longer expand this page, then there will be a mirror of this that just keeps growing, I suppose.
+
+Here it is. This is the test website I’m talking about. It has its own micro directory. There’s not much in it, as you can see.
+
+Here it is. Here’s the embedded video I was talking about.
+
+Well, this video is already pretty long, so I should end it to keep the resolution sufficiently high so you can probably read something. If not, at least you got the gist of what I’m trying to say, hopefully.
+
+karbytes:
+
+Using the web page which I most recently asked you to summarize in this conversation, print just karbytes' spoken words (as those words were transcribed by ChatGPT in that web page) which occurred in the following video. For that video, print all of what was transcribed minus time stamps and other extraneous content:
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_79/main/karbytes_thinking_12october2026_p1.mp4
 
 (Keep your response constrained to this chat rather than generating a downloadable markdown file).
