@@ -30,6 +30,8 @@ relevant_KARBYTES_files[9]: https://raw.githubusercontent.com/karlinarayberinger
 
 relevant_KARBYTES_files[10]: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_12october2026_a0/
 
+relevant_KARBYTES_files[11]: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_79/main/karbytes_thinking_12october2026_p0.mp4
+
 * * *
 
 karbytes:
@@ -445,3 +447,25 @@ A photograph situates this work in The Burrow: a low laptop displaying preservat
 The planning videos reconsider how much of the existing websites should be rebuilt. Copying HTML alone would retain dependencies on WordPress-hosted images, making a comprehensive migration more involved than it first appears. karbytes therefore favors keeping the older WordPress sites as legacy components and changing the publication method for new material. GitHub Pages would provide simpler directory surfaces and greater control over presentation. KARLINA_OBJECT_extension_pack_80 becomes the proposed next chapter after KARLINA_OBJECT_extension_pack_79, while the end of 2027 supplies an outer deadline for ending WordPress expansion. Recording length, compression, manageable file sizes, preservation quotas, and redundant cataloging all enter the decisions. The aim is continued growth through finite components with less unnecessary maintenance.
 
 The desktop demonstrations show KARBYTES_ULTIMATE_ARCHIVE already functioning as a third website. NEW_MACRO-DIRECTORY_PAGE_0 connects backward to the older directory, identifies its own position, and leads to NEW_MACRO-DIRECTORY_PAGE_1; that next page provides an entrance to KARLINA_OBJECT_extension_pack_80. The recordings distinguish repository files from their readable website surfaces and demonstrate a minimal stylesheet alongside older hyperlink-color conventions. Browser delays and an uncreated preservation-index destination remain visible parts of development. The final recording ends during inspection of a PUBLIC_DOMAIN page. The document preserves a usable structure, evolving decisions, and unfinished tasks, with future accessibility depending on both intelligible organization and continuing preservation work.
+
+karbytes:
+
+Using the second web page which I asked you to summarize in this conversation, print just karbytes' spoken words (as those words were transcribed by ChatGPT in that web page) which occurred in the following video. For that video, print all of what was transcribed minus time stamps and other extraneous content:
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_79/main/obs_studio_recording_karbytes_11october2026_p1.mp4
+
+(Keep your response constrained to this chat rather than generating a downloadable markdown file).
+
+ChatGPT:
+
+[Worked for 17s]
+
+No spoken words were reliably transcribed for this video in the web page.
+
+karbytes:
+
+Using the web page which I most recently asked you to summarize in this conversation, print just karbytes' spoken words (as those words were transcribed by ChatGPT in that web page) which occurred in the following video. For that video, print all of what was transcribed minus time stamps and other extraneous content:
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_79/main/karbytes_thinking_12october2026_p0.mp4
+
+(Keep your response constrained to this chat rather than generating a downloadable markdown file).
