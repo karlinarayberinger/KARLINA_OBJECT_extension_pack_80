@@ -22,6 +22,8 @@ relevant_KARBYTES_files[5]: https://karbytesforlifeblog.wordpress.com/chatgpt_ka
 
 relevant_KARBYTES_files[6]: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_79/main/karbytes_thinking_11october2026_p0.mp4
 
+relevant_KARBYTES_files[7]: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_79/main/obs_studio_recording_karbytes_11october2026_p0.mp4
+
 * * *
 
 karbytes:
@@ -369,3 +371,11 @@ But I think this kind of what I’m saying right now is a little bit more on poi
 And I’m trying to understand causality. I’m trying to understand why things are the way they are, what the ultimate nature of reality is.
 
 I’m not trying to get too lost in just one science-fiction fantasy scenario.
+
+karbytes:
+
+Using the second web page which I asked you to summarize in this conversation, print just karbytes' spoken words (as those words were transcribed by ChatGPT in that web page) which occurred in the following video. For that video, print all of what was transcribed minus time stamps and other extraneous content:
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_79/main/obs_studio_recording_karbytes_11october2026_p0.mp4
+
+(Keep your response constrained to this chat rather than generating a downloadable markdown file).
