@@ -76,7 +76,7 @@ Well, I’m trying not to make the data size grow too fast, so I should probably
 
 karbytes:
 
-Using the web page which I asked you to summarize in the previous request of this conversation, print just karbytes' spoken words (as those words were transcribed by ChatGPT in that web page) which occurred in the following video. For that video, print all of what was transcribed minus time stamps and other extraneous content:
+Using the web page which I asked you to summarize in the first request of this conversation, print just karbytes' spoken words (as those words were transcribed by ChatGPT in that web page) which occurred in the following video. For that video, print all of what was transcribed minus time stamps and other extraneous content:
 
 https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_80/main/karbytes_in_the_big_green_thing_14oct2026_p1.mp4
 
