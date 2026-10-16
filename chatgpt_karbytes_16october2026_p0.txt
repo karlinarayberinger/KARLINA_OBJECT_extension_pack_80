@@ -48,6 +48,8 @@ relevant_KARBYTES_files[18]: https://karbytesforlifeblog.wordpress.com/chatgpt_k
 
 relevant_KARBYTES_files[19]: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_17september2026_a1/
 
+relevant_KARBYTES_files[20]: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_17september2026_a0/
+
 * * *
 
 karbytes:
@@ -4013,3 +4015,11 @@ Public-domain release completes one side of the project’s openness. Selected a
 The resulting portrait is not a simple progression from crisis to recovery or from confusion to a completed philosophy. The retrospective moves out of chronological order, revisits old states, preserves rejected explanations, and gives new functions to earlier images. Moments of grounded planning coexist with expansive speculation; bodily pleasure coexists with discomfort; chosen solitude coexists with dependence on shared infrastructure. A later interpretation can clarify an earlier event without exhausting it.
 
 The final image of the preserved inhabitant brings these tensions together. KARBYTES can contain the words, sounds, photographs, interfaces, and myths through which a former karbytes becomes recognizable again. It can provide future readers and later selves with unusually rich material for reconstruction. What it preserves remains selective, mediated, and dependent on surviving means of access. The living author continues beyond any single fixed representation, while the archive holds particular versions still enough for someone else to encounter them.
+
+karbytes:
+
+Generate a maximally detailed (plain-text only, zero-url) essay summarizing the following document:
+
+https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_17september2026_a0/
+
+(This time favor constraining the response to in-conversation text only but choose instead to format the response as a downloadable markdown file if you think that would make for a more detail-rich report).
