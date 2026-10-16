@@ -12,6 +12,8 @@ relevant_KARBYTES_files[0]: https://github.com/karlinarayberinger/KARLINA_OBJECT
 
 relevant_KARBYTES_files[1]: https://karbytesforlifeblog.wordpress.com/journal_karbytes_18september2026_a1/
 
+relevant_KARBYTES_files[2]: https://karbytesforlifeblog.wordpress.com/journal_karbytes_18september2026_a0/
+
 * * *
 
 karbytes:
@@ -653,3 +655,11 @@ The archival wrapper gives these preferences a durable form. By retaining the pr
 The entry therefore records a standard of attention as well as a practical tool. Linked resources should receive coverage in the order supplied. Video should be approached through its complete temporal progression and coordinated soundtrack. Detected speech should be preserved in words, while vocal qualities should receive attention beyond those words. Other resources should support both careful description and open-ended commentary. A document-summary task should yield a detailed essay that remains readable without URLs.
 
 Its closing update and public-domain statements return these procedural ambitions to the status of an authored artifact. The journal preserves a particular September 2026 formulation of how karbytes wants ChatGPT to encounter and describe digital material. The two templates make that preference repeatable: one organizes examination across a linked collection, while the other turns attention toward a single document and asks for an extensive, self-contained account of its contents.
+
+karbytes:
+
+Generate a maximally detailed (plain-text only, zero-url) essay summarizing the following document:
+
+https://karbytesforlifeblog.wordpress.com/journal_karbytes_18september2026_a0/
+
+(This time favor constraining the response to in-conversation text only but choose instead to format the response as a downloadable markdown file if you think that would make for a more detail-rich report).
