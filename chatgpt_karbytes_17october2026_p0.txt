@@ -1,0 +1,100 @@
+/**
+ * file: chatgpt_karbytes_17october2026_p0.txt
+ * type: plain-text
+ * date: 16_OCTOBER_2026
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+The following is a plain-text transcript of a conversation between karbytes and ChatGPT 6.1 Sol (Max Effort) (Work Mode) which took place between 11:59PM Pacific Standard Time on 15_OCTOBER_2026 and 11:59PM Pacific Standard Time on 17_OCTOBER_2026.
+
+* * *
+
+karbytes:
+
+Print an in-conversation list of raw GitHub file URLs for every file currently in the public projects GitHub repository owned by @informationcrystals.
+
+ChatGPT:
+
+[Worked for 41s]
+
+The repository’s `main` branch currently contains 22 files:
+
+1. [https://raw.githubusercontent.com/informationcrystals/projects/main/after_sunset_castro_valley_california_16oct2026_p0.jpg](https://raw.githubusercontent.com/informationcrystals/projects/main/after_sunset_castro_valley_california_16oct2026_p0.jpg)
+
+2. [https://raw.githubusercontent.com/informationcrystals/projects/main/after_sunset_vinette_castro_valley_california_16october2026_p0.mp4](https://raw.githubusercontent.com/informationcrystals/projects/main/after_sunset_vinette_castro_valley_california_16october2026_p0.mp4)
+
+3. [https://raw.githubusercontent.com/informationcrystals/projects/main/afternoon_castro_valley_california_16oct2026_p0.jpg](https://raw.githubusercontent.com/informationcrystals/projects/main/afternoon_castro_valley_california_16oct2026_p0.jpg)
+
+4. [https://raw.githubusercontent.com/informationcrystals/projects/main/afternoon_castro_valley_california_16oct2026_p1.mp4](https://raw.githubusercontent.com/informationcrystals/projects/main/afternoon_castro_valley_california_16oct2026_p1.mp4)
+
+5. [https://raw.githubusercontent.com/informationcrystals/projects/main/afternoon_castro_valley_california_16oct2026_p2.jpg](https://raw.githubusercontent.com/informationcrystals/projects/main/afternoon_castro_valley_california_16oct2026_p2.jpg)
+
+6. [https://raw.githubusercontent.com/informationcrystals/projects/main/chatgpt_karbytes_17october2026_p0.txt](https://raw.githubusercontent.com/informationcrystals/projects/main/chatgpt_karbytes_17october2026_p0.txt)
+
+7. [https://raw.githubusercontent.com/informationcrystals/projects/main/drums_karbytes_16october2026_p0.mp4](https://raw.githubusercontent.com/informationcrystals/projects/main/drums_karbytes_16october2026_p0.mp4)
+
+8. [https://raw.githubusercontent.com/informationcrystals/projects/main/drums_karbytes_16october2026_p1.mp4](https://raw.githubusercontent.com/informationcrystals/projects/main/drums_karbytes_16october2026_p1.mp4)
+
+9. [https://raw.githubusercontent.com/informationcrystals/projects/main/journal_karbytes_17october2026_p0.txt](https://raw.githubusercontent.com/informationcrystals/projects/main/journal_karbytes_17october2026_p0.txt)
+
+10. [https://raw.githubusercontent.com/informationcrystals/projects/main/karbytes_in_its_burrow_16october2026_p0.mp4](https://raw.githubusercontent.com/informationcrystals/projects/main/karbytes_in_its_burrow_16october2026_p0.mp4)
+
+11. [https://raw.githubusercontent.com/informationcrystals/projects/main/karbytes_in_its_burrow_16october2026_p1.jpg](https://raw.githubusercontent.com/informationcrystals/projects/main/karbytes_in_its_burrow_16october2026_p1.jpg)
+
+12. [https://raw.githubusercontent.com/informationcrystals/projects/main/karbytes_in_its_burrow_16october2026_p2.jpg](https://raw.githubusercontent.com/informationcrystals/projects/main/karbytes_in_its_burrow_16october2026_p2.jpg)
+
+13. [https://raw.githubusercontent.com/informationcrystals/projects/main/karbytes_in_its_burrow_16october2026_p3.mp4](https://raw.githubusercontent.com/informationcrystals/projects/main/karbytes_in_its_burrow_16october2026_p3.mp4)
+
+14. [https://raw.githubusercontent.com/informationcrystals/projects/main/karbytes_in_its_burrow_16october2026_p4.mp4](https://raw.githubusercontent.com/informationcrystals/projects/main/karbytes_in_its_burrow_16october2026_p4.mp4)
+
+15. [https://raw.githubusercontent.com/informationcrystals/projects/main/karbytes_in_the_big_green_thing_16oct2026_p0.jpg](https://raw.githubusercontent.com/informationcrystals/projects/main/karbytes_in_the_big_green_thing_16oct2026_p0.jpg)
+
+16. [https://raw.githubusercontent.com/informationcrystals/projects/main/karbytes_in_the_big_green_thing_16oct2026_p1.mp4](https://raw.githubusercontent.com/informationcrystals/projects/main/karbytes_in_the_big_green_thing_16oct2026_p1.mp4)
+
+17. [https://raw.githubusercontent.com/informationcrystals/projects/main/karbytes_in_the_big_green_thing_16oct2026_p2.jpg](https://raw.githubusercontent.com/informationcrystals/projects/main/karbytes_in_the_big_green_thing_16oct2026_p2.jpg)
+
+18. [https://raw.githubusercontent.com/informationcrystals/projects/main/karbytes_in_the_big_green_thing_16oct2026_p3.jpg](https://raw.githubusercontent.com/informationcrystals/projects/main/karbytes_in_the_big_green_thing_16oct2026_p3.jpg)
+
+19. [https://raw.githubusercontent.com/informationcrystals/projects/main/karbytes_in_the_big_green_thing_16oct2026_p4.mp4](https://raw.githubusercontent.com/informationcrystals/projects/main/karbytes_in_the_big_green_thing_16oct2026_p4.mp4)
+
+20. [https://raw.githubusercontent.com/informationcrystals/projects/main/karbytes_thinking_16october2026_p0.mp4](https://raw.githubusercontent.com/informationcrystals/projects/main/karbytes_thinking_16october2026_p0.mp4)
+
+21. [https://raw.githubusercontent.com/informationcrystals/projects/main/karbytes_thinking_16october2026_p1.mp4](https://raw.githubusercontent.com/informationcrystals/projects/main/karbytes_thinking_16october2026_p1.mp4)
+
+22. [https://raw.githubusercontent.com/informationcrystals/projects/main/karbytes_thinking_16october2026_p2.mp4](https://raw.githubusercontent.com/informationcrystals/projects/main/karbytes_thinking_16october2026_p2.mp4)
+
+karbytes:
+
+For each unique URL which is currently listed in chatgpt_karbytes_17october2026_p0.txt, print one plain-text line consisting solely of that file's URL with the GitHub username changed from @informationcrystals to @karlinarayberinger and the GitHub repository name changed from projects to KARLINA_OBJECT_extension_pack_80.
+
+ChatGPT:
+
+[Worked for 21s]
+
+[preformatted_text]
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_80/main/after_sunset_castro_valley_california_16oct2026_p0.jpg
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_80/main/after_sunset_vinette_castro_valley_california_16october2026_p0.mp4
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_80/main/afternoon_castro_valley_california_16oct2026_p0.jpg
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_80/main/afternoon_castro_valley_california_16oct2026_p1.mp4
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_80/main/afternoon_castro_valley_california_16oct2026_p2.jpg
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_80/main/chatgpt_karbytes_17october2026_p0.txt
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_80/main/drums_karbytes_16october2026_p0.mp4
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_80/main/drums_karbytes_16october2026_p1.mp4
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_80/main/journal_karbytes_17october2026_p0.txt
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_80/main/karbytes_in_its_burrow_16october2026_p0.mp4
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_80/main/karbytes_in_its_burrow_16october2026_p1.jpg
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_80/main/karbytes_in_its_burrow_16october2026_p2.jpg
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_80/main/karbytes_in_its_burrow_16october2026_p3.mp4
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_80/main/karbytes_in_its_burrow_16october2026_p4.mp4
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_80/main/karbytes_in_the_big_green_thing_16oct2026_p0.jpg
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_80/main/karbytes_in_the_big_green_thing_16oct2026_p1.mp4
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_80/main/karbytes_in_the_big_green_thing_16oct2026_p2.jpg
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_80/main/karbytes_in_the_big_green_thing_16oct2026_p3.jpg
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_80/main/karbytes_in_the_big_green_thing_16oct2026_p4.mp4
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_80/main/karbytes_thinking_16october2026_p0.mp4
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_80/main/karbytes_thinking_16october2026_p1.mp4
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_80/main/karbytes_thinking_16october2026_p2.mp4
+
+[end preformatted_text]
