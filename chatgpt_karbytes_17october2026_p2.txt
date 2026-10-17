@@ -68,6 +68,8 @@ relevant_KARBYTES_files[28]: https://karbytesforlifeblog.wordpress.com/chatgpt_k
 
 relevant_KARBYTES_files[29]: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_10october2026_a0/
 
+relevant_KARBYTES_files[30]: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_08october2026_a4/
+
 * * *
 
 karbytes:
@@ -5347,3 +5349,11 @@ The public-domain designation introduces another useful distinction. Karbytes’
 The document’s principal contribution is a clearer account of what different expenditures and settings are supposed to accomplish. Storage allowance, retained files, future uploads, public visibility, plugin-dependent content, and advertisements each have separate consequences. Understanding one does not settle the others.
 
 The conversation ends with the advertising distinction rather than a completed subscription decision. Existing standard content is described as surviving, more storage is described as independently purchasable, and public visibility may require a post-downgrade action. Site-wide advertisement removal remains tied to a paid plan in the recorded answers. Those findings give karbytes a more precise basis for deciding how its two websites should operate, while leaving the purchases, transitions, and resulting website states outside the completed record.
+
+karbytes:
+
+Generate a maximally detailed (plain-text only, zero-url) essay summarizing the following document:
+
+https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_08october2026_a4/
+
+(This time favor constraining the response to in-conversation text only but choose instead to format the response as a downloadable markdown file if you think that would make for a more detail-rich report).
