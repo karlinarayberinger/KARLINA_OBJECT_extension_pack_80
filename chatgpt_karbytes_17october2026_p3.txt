@@ -96,7 +96,7 @@ relevant_KARBYTES_files[42]: https://karbytesforlifeblog.wordpress.com/chatgpt_k
 
 relevant_KARBYTES_files[43]: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_01august2026_k/
 
-relevant_KARBYTES_files[44]: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_05october2026_a3/
+relevant_KARBYTES_files[44]: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_01august2026_s/
 
 * * *
 
@@ -7130,6 +7130,6 @@ karbytes:
 
 Generate a maximally detailed (plain-text only, zero-url) essay summarizing the following document:
 
-https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_05october2026_a3/
+https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_01august2026_s/
 
 (This time favor constraining the response to in-conversation text only but choose instead to format the response as a downloadable markdown file if you think that would make for a more detail-rich report).
