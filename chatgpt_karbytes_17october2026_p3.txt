@@ -16,6 +16,8 @@ relevant_KARBYTES_files[2]: https://raw.githubusercontent.com/karlinarayberinger
 
 relevant_KARBYTES_files[3]: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_80/main/patreon_karbytes_17october2026_p0.png
 
+relevant_KARBYTES_files[4]: https://karlinarayberinger.github.io/KARLINA_OBJECT_extension_pack_80/unlisted_web_page_karbytes_social_media_posts_koep80.html
+
 * * *
 
 karbytes:
@@ -839,3 +841,11 @@ The outline hearts, speech bubbles, and share symbols recur without visible nume
 Its value as an archival object consequently extends beyond the documents it references. It retains the creator-page name, category description, banner, emblem, membership language, total post count, visible publication order, date labels, representative pictures, title discrepancy, corrective note, and interface overlays. These details describe how the work was offered to an audience at a particular captured state.
 
 The resulting portrait is of a project distributing a large body of named material through a consistent public interface. Its recent GitHub Pages references coexist with a longer run of WordPress publications under the same creator identity. The page gives the collection a recognizable appearance while preserving the practical irregularities of publication: reused images, differing dates, abbreviated references, cached metadata, and explanatory correction. KARBYTES appears here through the continuing work of making its documents identifiable, visible, and available for later return.
+
+karbytes:
+
+Generate a maximally detailed (plain-text only, zero-url) essay summarizing the following document:
+
+https://karlinarayberinger.github.io/KARLINA_OBJECT_extension_pack_80/unlisted_web_page_karbytes_social_media_posts_koep80.html
+
+(This time favor constraining the response to in-conversation text only but choose instead to format the response as a downloadable markdown file if you think that would make for a more detail-rich report).
