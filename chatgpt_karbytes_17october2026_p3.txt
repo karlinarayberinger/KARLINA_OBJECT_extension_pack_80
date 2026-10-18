@@ -60,6 +60,8 @@ relevant_KARBYTES_files[24]: https://karbytesforlifeblog.wordpress.com/journal_k
 
 relevant_KARBYTES_files[25]: https://karbytesforlifeblog.wordpress.com/journal_karbytes_30july2026/
 
+relevant_KARBYTES_files[26]: https://karbytesforlifeblog.wordpress.com/journal_karbytes_28july2026/
+
 * * *
 
 karbytes:
@@ -4384,3 +4386,11 @@ Several forms of preservation meet in that moment. Blank discs represent future 
 The document also contains several timescales. A release occurred earlier that day. The speaker anticipates a hiatus lasting long enough to save money and acquire significance. The broader framework is the summer’s First Official Major Hiatus. Beneath these schedules, the body registers the immediate warmth of the ground and the recurring beat of the heart.
 
 The closing image is consequently both expansive and very small: a creator concerned with the durability and history of an archive lies against a patch of earth at night. The systems remain present in the speech, but the final evidence of continuity is bodily sensation. KARBYTES can become publicly quiet while karbytes continues to feel, record, and inhabit the world it calls The Big Green Thing.
+
+karbytes:
+
+Generate a maximally detailed (plain-text only, zero-url) essay summarizing the following document:
+
+https://karbytesforlifeblog.wordpress.com/journal_karbytes_28july2026/
+
+(This time favor constraining the response to in-conversation text only but choose instead to format the response as a downloadable markdown file if you think that would make for a more detail-rich report).
