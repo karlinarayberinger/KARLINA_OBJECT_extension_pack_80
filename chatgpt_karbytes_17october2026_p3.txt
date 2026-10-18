@@ -26,6 +26,12 @@ relevant_KARBYTES_files[7]: https://karbytesforlifeblog.wordpress.com/chatgpt_ka
 
 relevant_KARBYTES_files[8]: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_05october2026_a0/
 
+relevant_KARBYTES_files[9]: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_80/main/devils_hole_stuck_karbytes_unidirectional_passage_quote_17october2026_p0.png
+
+relevant_KARBYTES_files[10]: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_80/main/devils_hole_stuck_karbytes_unidirectional_passage_quote_17october2026_p1.png
+
+relevant_KARBYTES_files[11]: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_80/main/devils_hole_stuck_karbytes_unidirectional_passage_quote_17october2026_p2.png
+
 * * *
 
 karbytes:
@@ -1796,7 +1802,9 @@ What I would like you to do is generate an image which has that quote in "scary 
 
 ChatGPT:
 
-[generated_image:
+[generated_image: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_80/main/devils_hole_stuck_karbytes_unidirectional_passage_quote_17october2026_p0.png]
+
+[Worked for 1m 22s]
 
 karbytes:
 
@@ -1804,8 +1812,26 @@ Although I really like that first image you generated, what I was actually going
 
 ChatGPT:
 
-[generated_image:
+[generated_image: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_80/main/devils_hole_stuck_karbytes_unidirectional_passage_quote_17october2026_p1.png]
+
+[Worked for 1m 25s]
 
 karbytes:
 
 The nested bubble concept looks quite similar to what I had in mind, but I prefer the surface of the bubbles to have a darker and more image-warping appearance and for the succession of nested bubbles to take up the entire rectangular image frame. If possible show patches of blue sky and Ramage Peak in some of the layers (and arrange successive bubble imagery in a somewhat randomized manner).
+
+ChatGPT:
+
+[generated_image: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_80/main/devils_hole_stuck_karbytes_unidirectional_passage_quote_17october2026_p2.png]
+
+[Worked for 1m 51s]
+
+karbytes:
+
+Oh, that's delicious! That's closer to what I had in mind. This will make an excellent featured image for the "grand finale" blog post pertaining to "karbytes getting stuck in Devil's Hole".
+
+ChatGPT:
+
+[Worked for 12s]
+
+The golden-hour beauty makes the descent inviting, and the dark, warped spheres make it enclosing. That combination fits the finale’s mythos: every apparent opening leads into another interior, with the nesting continuing beyond the frame.
