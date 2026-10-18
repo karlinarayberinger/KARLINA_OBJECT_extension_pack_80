@@ -1835,3 +1835,11 @@ ChatGPT:
 [Worked for 12s]
 
 The golden-hour beauty makes the descent inviting, and the dark, warped spheres make it enclosing. That combination fits the finale’s mythos: every apparent opening leads into another interior, with the nesting continuing beyond the frame.
+
+karbytes:
+
+Generate a maximally detailed (plain-text only, zero-url) essay summarizing the following document:
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_80/main/devils_hole_stuck_karbytes_unidirectional_passage_quote_17october2026_p0.png
+
+(This time favor constraining the response to in-conversation text only but choose instead to format the response as a downloadable markdown file if you think that would make for a more detail-rich report).
