@@ -32,6 +32,8 @@ relevant_KARBYTES_files[10]: https://raw.githubusercontent.com/karlinarayberinge
 
 relevant_KARBYTES_files[11]: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_80/main/devils_hole_stuck_karbytes_unidirectional_passage_quote_17october2026_p2.png
 
+relevant_KARBYTES_files[12]: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_80/main/reddit_karbytes_morality_scaling_subreddit_comment_18october2026_p0.png
+
 * * *
 
 karbytes:
@@ -2186,5 +2188,10 @@ Near the lower center, the smallest bubbles gather around a warm, bright opening
 
 karbytes:
 
-Right now, I am localized to The Burrow at approximately (i.e. within five minutes of) 1:16AM Pacific Standard Time on 18_OCTOBER_2026 (and I am in my usual floor-bound, prone, and cocoon wrapped position in front of my laptop). While you were examining and generating descriptions of the three images I asked you to generate in this conversation, I was browsing Reddit (as part of my daily routine of generating activity on the platform mostly via liking posts or commenting on posts (in order to earn the "Basement Dweller" (600-day activity streak) achievement). I came across a rather interesting (but not particularly conceptually new) discussion on the "morality" of farming genetically modified organisms in a manner which makes those organisms lack nervous systems yet yield meat and possibly sexually reproduce. I left what seems to be one of the few comments on that post which offers some practical insight rather than merely expressing opinionated preferences (and deep down I think all concern boils down to exclusive self-interest especially given that all selves can hypothetically stem from the same unified composite self (or there could possibly be only one actual frame of reference throughout all existence or throughout a realm of existence)). I also think that taking attempting to think about ethical dilemmas from a perspective of amorality helps to clear up confusion and suffering a lot...
+Right now, I am localized to The Burrow at approximately (i.e. within five minutes of) 1:26AM Pacific Standard Time on 18_OCTOBER_2026 (and I am in my usual floor-bound, prone, and cocoon wrapped position in front of my laptop). While you were examining and generating descriptions of the three images I asked you to generate in this conversation, I was browsing Reddit (as part of my daily routine of generating activity on the platform mostly via liking posts or commenting on posts (in order to earn the "Basement Dweller" (600-day activity streak) achievement). I came across a rather interesting (but not particularly conceptually new) discussion on the "morality" of farming genetically modified organisms in a manner which makes those organisms lack nervous systems yet yield meat and possibly sexually reproduce. I left what seems to be one of the few comments on that post which offers some practical insight rather than merely expressing opinionated preferences (and deep down I think all concern boils down to exclusive self-interest especially given that all selves can hypothetically stem from the same unified composite self (or there could possibly be only one actual frame of reference throughout all existence or throughout a realm of existence)). I also think that taking attempting to think about ethical dilemmas from a perspective of amorality helps to clear up confusion and suffering a lot...
 
+Generate a maximally detailed (plain-text only, zero-url) essay summarizing the following document:
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_80/main/reddit_karbytes_morality_scaling_subreddit_comment_18october2026_p0.png
+
+(This time favor constraining the response to in-conversation text only but choose instead to format the response as a downloadable markdown file if you think that would make for a more detail-rich report).
