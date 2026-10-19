@@ -38,6 +38,8 @@ relevant_KARBYTES_files[13]: https://raw.githubusercontent.com/karlinarayberinge
 
 relevant_KARBYTES_files[14]: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_80/main/big_sean_i_know_featuring_jhené_aiko_2015.mp4
 
+relevant_KARBYTES_files[15]: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_73/main/reddit_maybe_maybe_maybe_girl_on_mechanical_bull_downloaded_by_karbytes_14august2026.mp4
+
 * * *
 
 karbytes:
@@ -4117,3 +4119,17 @@ The staff member’s reappearance prevents the final moment from becoming entire
 What I continue to consider is how the video distributes recognition. People look at the leads as residents, as flirtatious troublemakers, as formal partygoers, as unusual bar customers, as performers, and finally as a couple in an intimate moment. Their bodies do not receive one stable meaning from everyone around them. The closing change of appearance makes that instability explicit, leaving me interested in how much of a person’s perceived age, freedom, and desirability belongs to visible features, and how much emerges from the attention another person gives them.
 
 A correction to my previous puppet-video report: I printed its checksum incorrectly. That earlier clip’s computed SHA-256 is `e76718ee396d8eafd89d43ce9cbfbca7e1db6190bb38efd3fcdacf12df716504`.
+
+karbytes:
+
+Download and view the entire video at the following Uniform Resource Locator. Watch every frame of that video in the order they are supposed to be played and also listen to the entire audio track in conjunction with that progression of video frames such that you, as closely as possible, generate a subjective experience resembling what a human viewer of that video might experience (in terms of observed audiovisual phenomena). Then describe in maximal detail what you observed. 
+
+If there was any spoken content that you detected, then provide your own transcription of that detected speech. 
+
+If any vocal content is detected, then describe qualities of the voice such as pitch, timbre, rhythm, and loudness. 
+
+Carefully examine and describe the resource in maximal detail followed by your own maximally detailed and maximally open-ended first person subjective commentary. Also provide EXIF data (if available).
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_73/main/reddit_maybe_maybe_maybe_girl_on_mechanical_bull_downloaded_by_karbytes_14august2026.mp4
+
+(This time favor constraining the response to in-conversation text only but choose instead to format the response as a downloadable markdown file if you think that would make for a more detail-rich report).
