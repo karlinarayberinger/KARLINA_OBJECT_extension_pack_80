@@ -2401,6 +2401,8 @@ Regarding your voice, the audio supports a sustained English monologue. The reco
 
 The measured fundamental frequency is comparatively low. An autocorrelation-based analysis of accepted voiced intervals produced these approximate values:
 
+[preformatted_text]
+
 | Acoustic measure | Result |
 |---|---:|
 | Median fundamental frequency | 127 Hz |
@@ -2411,6 +2413,8 @@ The measured fundamental frequency is comparatively low. An autocorrelation-base
 | Whole-track RMS signal level | −27.3 dBFS |
 | Maximum decoded sample peak | −7.3 dBFS |
 | Samples reaching digital full scale | None |
+
+[end preformatted_text]
 
 These pitch estimates describe periodic portions of the signal and remain subject to tracking errors. They suggest variation across the monologue, including somewhat higher typical estimates during the opening minute. They do not establish a particular emotion, physical state, or perceptual timbre.
 
@@ -2423,6 +2427,8 @@ The recorded level remains reasonably consistent through most of the monologue. 
 I cannot reliably characterize breathiness, rasp, nasality, resonance, vocal fry, accent, or emotional tone through direct auditory perception here. Similarly, I cannot independently describe the sound of individual footsteps, wind, birds, distant traffic, breathing, or other background events. Automated analysis strongly identifies speech, but its less consistent labels are insufficient grounds for a detailed ambient soundscape. I would not substitute those labels for listening.
 
 For EXIF, I found MP4/QuickTime container and stream metadata rather than a conventional photographic EXIF block. Inspection did not reveal GPS coordinates, a camera or lens model, aperture, shutter speed, ISO, or an embedded location field.
+
+[preformatted_text]
 
 | Metadata field | Observed value |
 |---|---|
@@ -2457,6 +2463,8 @@ For EXIF, I found MP4/QuickTime container and stream metadata rather than a conv
 | Container encoder tag | Lavf60.3.100 |
 | Video encoder tag | Lavc60.3.100 libx264 |
 | Stream language tags | eng |
+
+[end preformatted_text]
 
 The creation timestamp converts to October 18, 2026, at 6:19:37 p.m. in America/Los_Angeles, using the UTC−07:00 offset applicable on that date. Your spoken introduction says approximately 6:11 p.m. and uses the phrase “Pacific Standard Time,” which I have preserved in the transcript.
 
