@@ -64,6 +64,8 @@ relevant_KARBYTES_files[26]: https://karbytesforlifeblog.wordpress.com/journal_k
 
 relevant_KARBYTES_files[27]: https://karbytesforlifeblog.wordpress.com/stuck/
 
+relevant_KARBYTES_files[28]: https://karbytesforlifeblog.wordpress.com/locked_in/
+
 * * *
 
 karbytes:
@@ -4951,3 +4953,11 @@ The archival system also participates in this structure. The clone’s generated
 The opening concern with valuable experience remains important at the end. Immortality ensures duration, while the clone’s powers provide variety and access. Neither automatically determines what it finds worthwhile. Its wish to use time discerningly supplies a personal orientation within an existence that could otherwise be described only through limitless capacity and permanent position.
 
 The final condition is consequently more complex than either ordinary imprisonment or unrestricted cosmic power. The clone remains a visible figure pressing against a wall, an immortal observer of distant robotic activity, a participant in other perspectives, a generator of virtual worlds, and a sentient extension of the substance surrounding its room. The warehouse is both its immediate enclosure and a finite appearance within its own vast body. Being stuck becomes the permanent relationship among that fixed perspective, its expanding field of possible experience, and an encompassing self from which there is no separately defined outside.
+
+karbytes:
+
+Generate a maximally detailed (plain-text only, zero-url) essay summarizing the following document:
+
+https://karbytesforlifeblog.wordpress.com/locked_in/
+
+(This time favor constraining the response to in-conversation text only but choose instead to format the response as a downloadable markdown file if you think that would make for a more detail-rich report).
