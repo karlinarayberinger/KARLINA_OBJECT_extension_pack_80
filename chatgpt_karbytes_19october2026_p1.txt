@@ -76,6 +76,8 @@ relevant_KARBYTES_files[32]: https://karbytesforlifeblog.wordpress.com/journal_k
 
 relevant_KARBYTES_files[33]: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_08july2026/
 
+relevant_KARBYTES_files[34]: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_22july2026/
+
 * * *
 
 karbytes:
@@ -5585,3 +5587,11 @@ The conversation itself also becomes part of the process it describes. Karbytes 
 The document’s public-domain designation and detailed source references support that continuing availability. They present the exchange as an object that can be revisited, compared with its inputs, and incorporated into later discussions. The concern with clean labels and future intelligibility is thus reflected in the page’s own effort to identify its source file, context, participants, and related materials.
 
 The uploaded narration ends by returning to work. That practical ending is consistent with the response’s emphasis on stewardship: the recording briefly articulates what is being preserved, why the labels matter, and what capacity remains before ordinary activity continues. The archive’s scale and symbolism are sustained through those finite actions, performed in a particular room, with particular devices, by karbytes attending to what its project will need next.
+
+karbytes:
+
+Generate a maximally detailed (plain-text only, zero-url) essay summarizing the following document:
+
+https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_22july2026/
+
+(This time favor constraining the response to in-conversation text only but choose instead to format the response as a downloadable markdown file if you think that would make for a more detail-rich report).
