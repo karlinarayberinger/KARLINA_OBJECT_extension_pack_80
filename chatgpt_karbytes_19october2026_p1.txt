@@ -72,6 +72,8 @@ relevant_KARBYTES_files[30]: https://karbytesforlifeblog.wordpress.com/karbytes_
 
 relevant_KARBYTES_files[31]: https://karbytesforlifeblog.wordpress.com/karbytes_stuck_web_pages/
 
+relevant_KARBYTES_files[32]: https://karbytesforlifeblog.wordpress.com/journal_karbytes_20july2026/
+
 * * *
 
 karbytes:
@@ -5359,3 +5361,11 @@ The closing metadata contains a notable chronological discrepancy. The footer sa
 The footer also declares the displayed content to be public-domain intellectual property. This is the page’s stated licensing designation. Along with its descriptive naming conventions and explicit priority markers, that declaration contributes to its character as an openly presented archival resource. It records a selection and makes the selection available for readers to follow and reuse.
 
 The strongest organizing relationship is the one between the directory’s subject and its final destination. The collection gathers many ways of describing, imagining, revisiting, or examining stuckness, then gives special prominence to a work concerned with liberties. Its arrangement leaves the reader with a route from conditions of constraint toward questions about the freedoms of the subjects represented within KARBYTES.
+
+karbytes:
+
+Generate a maximally detailed (plain-text only, zero-url) essay summarizing the following document:
+
+https://karbytesforlifeblog.wordpress.com/journal_karbytes_20july2026/
+
+(This time favor constraining the response to in-conversation text only but choose instead to format the response as a downloadable markdown file if you think that would make for a more detail-rich report).
