@@ -78,6 +78,8 @@ relevant_KARBYTES_files[33]: https://karbytesforlifeblog.wordpress.com/chatgpt_k
 
 relevant_KARBYTES_files[34]: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_22july2026/
 
+relevant_KARBYTES_files[35]: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_23july2026/
+
 * * *
 
 karbytes:
@@ -5809,3 +5811,11 @@ The assistant’s flexible responses to both immediate integration and prolonged
 The conversation thus preserves several distinct achievements without making any one of them automatically supreme. A wilderness encounter can be valuable; a transcript can preserve it; an archive can organize it; a hiatus can protect attention; and a blank contribution interval can represent deliberate restraint. Their value remains connected to what they enable karbytes to experience and accomplish.
 
 The final image of confinement makes that dependency visible. Something can contain an immense amount of meaning and still become an obstacle. The document ends with karbytes insisting on the importance of retaining authority over the games it plays, the prizes it pursues, and the portion of its life each pursuit is allowed to consume.
+
+karbytes:
+
+Generate a maximally detailed (plain-text only, zero-url) essay summarizing the following document:
+
+https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_23july2026/
+
+(This time favor constraining the response to in-conversation text only but choose instead to format the response as a downloadable markdown file if you think that would make for a more detail-rich report).
