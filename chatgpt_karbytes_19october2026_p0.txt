@@ -50,6 +50,8 @@ relevant_KARBYTES_files[19]: https://karbytesforlifeblog.wordpress.com/chatgpt_k
 
 relevant_KARBYTES_files[20]: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_72/main/chatgpt_karbytes_07august2026_p0.txt
 
+relevant_KARBYTES_files[21]: https://karbytesforlifeblog.wordpress.com/karbytes_recovered_missing_microdirectory_links/
+
 * * *
 
 karbytes:
@@ -5448,3 +5450,11 @@ The assistant’s role likewise becomes more structured. Its initial broad judgm
 The document’s strongest general insight is that preservation has several distinguishable layers. A file can survive in storage while remaining difficult to discover. A page can look complete while repeatedly opening the wrong destination. A derivative can preserve visible subject matter while leaving the original file unrepresented. A copied address can fail because of typography even when clicking the displayed hyperlink works. A repaired problem can remain a legitimate item in a historical record.
 
 The conversation ends with the recovery compilation judged substantively accurate, subject to one definite heading correction and an optional improvement in wording. It leaves behind a documented account of a large archive’s access structure, including complete directories, genuine gaps, misleading substitutions, minor presentation errors, intentional legacy imperfections, and repairs made during the review itself. The resulting record allows future readers to distinguish the continued existence of archived files from the changing quality of the paths through which those files can be found.
+
+karbytes:
+
+Generate a maximally detailed (plain-text only, zero-url) essay summarizing the following document:
+
+https://karbytesforlifeblog.wordpress.com/karbytes_recovered_missing_microdirectory_links/
+
+(This time favor constraining the response to in-conversation text only but choose instead to format the response as a downloadable markdown file if you think that would make for a more detail-rich report).
