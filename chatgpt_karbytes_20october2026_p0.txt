@@ -3181,3 +3181,7 @@ I do not read the last blank area as an empty recording. Browser controls, an ad
 That ending also leaves a useful boundary around interpretation. I can establish that content had not visibly arrived by the end. I cannot establish from the recording whether the page eventually loaded, remained unavailable, or was abandoned. The recorded sequence is complete as a file while the activity it depicts remains open.
 
 What stays most prominent in my reading is the relationship among those different durations: the current desktop session, the earlier phone videos, the older conversations, the sound files’ playback, the archive’s dated names, and the prospect of later access. The recording brings them together through concrete actions and interfaces. Its final page is still transferring data while the stored video reaches its last frame.
+
+karbytes:
+
+The laptop computer crashed during the making of that recording. Apparently, the RAM became completely full to the extent that even the cursor stopped moving. I had to force the computer to restart by holding down the power button until it shut down. Then I restarted the computer and saw that some of the OBS recording was retained (but some of the visual detail towards the end of the video seemed to have been lost).
