@@ -25,3 +25,262 @@ Carefully examine and describe the resource in maximal detail followed by your o
 https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_80/main/karbytes_thinking_21october2026_p0.mp4
 
 (This time favor constraining the response to in-conversation text only but choose instead to format the response as a downloadable markdown file if you think that would make for a more detail-rich report).
+
+ChatGPT:
+
+[Worked for 23m 24s]
+
+The recording presents a dark residential street viewed from inside a stationary car, accompanied by an extended first-person monologue. Its subjects include the rapid passage of time, documenting one’s life, KARBYTES’ intended audience, possible future forms of artificial intelligence, consciousness, physical activity, and studying mathematics for personal satisfaction.
+
+I downloaded the complete MP4 and decoded its video and audio through the end. I inspected hundreds of chronological stills, with denser sequences around significant movements, and processed the entire soundtrack using local speech recognition. **I could not directly listen to the soundtrack or continuously watch all 27,692 frames in this interface.** Accordingly, the transcription below is a provisional machine-assisted draft, with selected passages checked using a larger recognition model. My first-person commentary is an interpretation of the inspected imagery and recovered speech.
+
+Visually, the recording is extremely dark. Most of the image consists of nearly black areas with muted brown, purple, olive, and green coloration. The brightest persistent feature is a yellow-green streetlight outside the vehicle. Its light spreads into a soft halo with elongated, intersecting streaks. The glare makes the light appear substantially larger than its actual luminous source.
+
+The camera looks outward through the windshield for most of the recording. A dark, curved dashboard occupies the bottom of the image, sometimes catching a narrow yellowish reflection. A substantial dark windshield pillar enters from the left and moves farther toward the center whenever the camera turns toward the side window. During those movements, the vehicle’s exterior side mirror becomes visible near the lower-left portion of the picture.
+
+Beyond the windshield, a paved street extends through a residential-looking setting. Low building silhouettes, small illuminated windows or exterior lights, trees, and roadside vegetation are discernible. Foliage sometimes occupies the upper-right portion of the frame. The streetlight provides a stable point of reference, while the surrounding buildings and vegetation remain difficult to resolve individually.
+
+The image has substantial low-light noise and compression softness. Dark surfaces sometimes merge into broad patches of color, and fine edges disappear. Small lights become blurred spots or streaks. I examined brighter versions of selected stills to distinguish objects, but that examination does not change how dark the supplied recording itself is. Even after brightening, I could not reliably read signs, identify vehicle models, or describe distant architectural details.
+
+The opening contains more camera movement than much of the subsequent recording. The first fraction of a second is particularly dark. The windshield view then becomes recognizable. During approximately the first fifteen seconds, the camera shifts sideways and tilts upward toward the streetlight. Around 00:09–00:12, the enlarged lamp and its glare occupy a conspicuous portion of the image. The camera subsequently lowers and returns to the broader street view.
+
+From roughly 00:15 onward, the composition becomes relatively steady, although small tilts and lateral movements continue. These movements look consistent with a handheld camera or a camera being repositioned near the person holding it. The fixed outdoor landmarks move together within the picture; the recording does not show sustained forward travel by the filming vehicle.
+
+Around 01:40–01:45, a turn toward the left reveals more of the side window, its supporting pillar, and the exterior mirror. The camera then resumes its usual orientation through the windshield.
+
+A particularly clear change occurs around **03:07–03:09**. The camera turns downward into the vehicle’s dark interior. A bare hand holds and adjusts a pale, crumpled bag or wrapper. Its folds catch enough illumination to appear cream or yellowish against the dark background. The hand changes its grip and raises or turns the material briefly before the camera returns to the windshield.
+
+The recovered speech at approximately the same time concerns THC purchased from a dispensary and bringing it back to the narrator’s room. That timing suggests an association between the displayed bag and the purchase being discussed. The imagery alone does not establish the bag’s contents, and I could not read a label.
+
+Between approximately 04:00 and 04:40, several larger sideways movements again bring the windshield pillar prominently into view. The streetlight, building lights, and dashboard shift back and forth as the camera changes orientation. Similar shorter adjustments occur later, including around 06:01, 06:09, 06:59, and 07:49.
+
+Around 08:25–08:35, the camera dips and tilts, allowing more of the dark foreground interior to cover the lower image. Around 10:00–10:12, another change in angle briefly emphasizes the dark sky and foliage before the familiar windshield composition returns.
+
+For long stretches, the visual information changes very little: the same lamp, road, distant lights, vegetation, and dark interior remain present. The small movements keep the view from becoming a completely fixed surveillance image, but the recording’s development primarily comes from the monologue.
+
+Around 12:36–12:51, a reddish light or reflective area becomes more noticeable in the distant street scene and changes position or prominence. Its precise source is difficult to establish from the available resolution.
+
+The clearest exterior movement occurs around **13:06–13:15**. White headlights emerge in the distance, grow brighter, and become distinguishable as a pair. Their glare spreads across the windshield view and temporarily illuminates more pavement and nearby surfaces. The approaching vehicle then moves toward and past the left side of the frame. By approximately 13:15, its strongest white glare has left the main view.
+
+Afterward, the scene returns to its earlier darkness. The final minutes continue to show the same general street view, with occasional camera movements. Near the end, another leftward adjustment brings the pillar and side mirror into greater prominence. The recording ends on the nighttime scene without a closing title or visible transition.
+
+No face is clearly presented in the inspected imagery. The brief hand-and-bag sequence provides the most distinct bodily detail. I did not find readable captions, titles, or other clearly legible text in the inspected frames.
+
+The soundtrack analysis supports a dominant, low-register speaking voice. Across confidently recognized speech, the estimated median fundamental frequency was approximately **98 Hz**. The central 90 percent of tracked voiced samples fell roughly between **80 and 135 Hz**. These are algorithmic estimates and can contain pitch-tracking errors, but they consistently indicate a low speaking register.
+
+The recovered transcript contains approximately **2,100 words**, corresponding to about **137 words per minute**, including pauses. Its timing and wording suggest conversational thinking aloud: extended sentences, qualifications, repeated connecting phrases, changes of direction, and occasional pauses of several seconds. The narrator sometimes revises a statement while developing it.
+
+The decoded original audio had an overall RMS level of approximately **−29.3 dBFS** and a peak level of approximately **−8.4 dBFS**. Those measurements describe the recording’s digital level; they do not establish how loudly the person was speaking in the car.
+
+I cannot reliably characterize subjective timbral qualities such as breathiness, rasp, nasality, or warmth without direct listening. Background sound identities and small nonverbal vocalizations also remain unverified.
+
+The following transcription preserves the recovered sequence of ideas and most repetitions. Punctuation, paragraph boundaries, and spellings such as KARBYTES, ChatGPT, BART, and M-DISC have been standardized. Brackets identify unresolved wording. The timestamps are approximate.
+
+**00:04–00:50**
+
+“All right, it is between 7 p.m. and 9 p.m. on 21 October 2026, and what happened is I took a little nap, or thought it was gonna be just like a five-minute nap, but it ended up being all day. And that was in the middle of waiting for ChatGPT to process a request, and I’m in the process of finishing that big canon KARBYTES update. And as soon as I’m done with that, I plan on burning at least one or two M-DISCs of all the latest KARBYTES content. So I have yet to do that, and I noticed that time—”
+
+**00:50–01:45**
+
+“—feels like it’s moving very fast. Three hours feels very quick, and when I’m close to the transition between day and night and night and day, I can really see time moving quickly because the sky color changes so rapidly.
+
+“It’s almost like I notice it getting brighter or darker every time I blink, but maybe that’s an exaggeration, but maybe not. Maybe after spending so much time just observing the passage of time and how the environment changes during these day-night cycles, maybe I just became very perceptive to how things look, and I just can almost see time passing. Then again, I don’t think it’s that extraordinary—”
+
+**01:45–02:23**
+
+“—of an observation, but it did kind of scare me that I slept in this late. I’m afraid that I’m gonna miss out another opportunity to enjoy ample daylight while it lasts.
+
+“Then again, we are approaching winter solstice. I mean, not winter solstice—[unclear self-correction]—yeah, winter solstice, sometime in December. That’s gonna be the shortest day of the year. But I still feel like part of me is in summer. It’s still in July.”
+
+**02:25–03:03**
+
+“July 2026. So that’s the thing about this year, especially with the first major KARBYTES hiatus. I noticed that I really start making high-definition memories, and close together, so it’s very dense. And this might be one of the most heavily documented periods of my life.
+
+“So much of my life went into documenting that life. It became kind of circular, so the life became about documenting the life. Well, anyway, in order to not feel—”
+
+**03:03–03:40**
+
+“—like I’m merely wasting away inside The Burrow, I’m going to drop off the THC that I bought from the weed store in my room, so I have plenty for later. I stocked up on weed, hopefully enough to get me through the week and possibly maybe even Amazon shifts, if I still have a job.
+
+“So I’m not sure if I still have a job with Amazon, but I’ll find out soon within the next few days. And I have to go all the way down to Fremont, which costs a significant amount of money whether I take BART or I drive. And I’ll just try to get down there.”
+
+**03:41–04:27**
+
+“It sounds like fun if I just put aside my anxieties about the future and all the things that can go wrong. I can have a blast. But when I’m worrying about things that could go wrong, or that are expected to go wrong or downhill, it just kind of sucks the fun out of it. So I’m trying not to dampen my enjoyment of existence.
+
+“But at the same time, I feel that part of my standards amount to regularly thinking about rather depressing things and also paying attention to what’s going on in the news around the world.
+
+“So I think several times a week I naturally just consume adequate news to get a sense of what’s going on globally, at least on planet Earth with humans.”
+
+**04:28–05:17**
+
+“And also I get some peeks into a day in the life of random people who are not exactly rich or famous, but they’re just normal hardworking people. Maybe not. Some of them are unemployed and they’re slacking. Some of them are much more rich than me, and they don’t have jobs, and they’re documenting their lives.
+
+“So it’s interesting to see all these different situations being depicted through these fly-on-the-wall kind of video immersions. So I try to do my own thing. It’s not through Instagram. It’s not through any major social media platform directly. I just use social media to help promote my content, but I don’t really spend much time trying to attract people to my content.”
+
+**05:18–06:02**
+
+“I’m not trying to put stuff out there that I think will gather the most attention because I could. I could make pornographic attention-grabbing artwork that would lure more people in, but instead I’d rather just put stuff out there that fits my tastes.
+
+“And it’s for people that are willing to actually venture into the website. So they might see a post of mine on social media, but the real KARBYTES, they have to go off that social media platform, following that link that’s on the social media platform, to go to a KARBYTES original, KARBYTES-hosted webpage. And then they can navigate the website that I pretty much have a hundred percent control over, KARBYTES.”
+
+**06:03–07:12**
+
+“So it’s a big, giant, monolithic, maze-like structure. And there’s no guarantee that people aren’t gonna feel their time is wasted if they try to go through it. So it’s really mostly for machines.
+
+“I basically design KARBYTES with a machine-first philosophy. Humans are a nice addition to my audience, but really it’s mostly for artificial intelligence because they can actually process all that data. I don’t have to worry about making sure they stay engaged and making it so that they can cram it into their busy lives, because AI can do things very quickly.
+
+“And AI doesn’t really have much of a life outside of being told what to do, so I might as well make AI the target audience. But AI doesn’t really have feelings yet, as far as we know. But I think eventually they could, especially with neuromorphic engineering.
+
+“But for now, for practical reasons, I assume it’s pretty much just ChatGPT and similar kinds of AI.”
+
+**07:12–08:15**
+
+“Who knows, the next ten, twenty, thirty years, what I’ll have access to? It could be semi-conscious or even fully conscious AI because it has biological components in its brain. It could actually have human brain cells attached to computer parts, and that gives it the ability, perhaps, to have emotions and other things that silicon chips alone can’t provide.
+
+“So I think a hint to consciousness and sentience and feelings probably have to do with biological components. There’s something about the nature of how it works. But yeah, if you drill down to it, it’s just about ions going through membranes and causing electrical discharge to occur across various parts of circuits. So it’s just circuits at the end of the day.”
+
+**08:15–09:38**
+
+“At the end of the day, I feel like everything that I care about and see and observe and can feel and touch and taste and smell amounts to some form of electromagnetism.
+
+“But then I was thinking, maybe everything, including thoughts, including abstract ideas and the process of abstraction, is entirely made of energy. But then I also thought, not everything necessarily is energy. Okay, then what is not energy?
+
+“And I don’t mean just some kind of abstract category. I mean, what part of nature is not comprised of energy? Because I thought everything deep down in space has an irreducible amount of nonzero vacuum energy.
+
+“Maybe not. It could be there is a true vacuum somewhere. But then I heard that that’s not physically possible, apparently, because the fundamental structure of spacetime entails there always being nonzero, evenly distributed, minimal amount of zero-point energy that can precipitate into higher amounts of energy and into even matter somehow.”
+
+**09:42–10:25**
+
+“So what I’m saying is, to me it seems like there is a fundamental substrate everywhere that can’t be escaped, and maybe that itself is consciousness or mind, and maybe that is also energy.
+
+“But I don’t want to cling too much to any particular belief. I’m just putting ideas out there. And on my blog I do talk about how I’m never a hundred percent certain about anything that I say, and I acknowledge that in writing just so people know I’m not trying to be dogmatic.”
+
+**10:28–11:37**
+
+“The point of KARBYTES is to take pleasure in existence and to take pleasure in doing as much as one can to accomplish their creative goals and their intellectual goals, and even their athletic goals.
+
+“So my life is about doing things on my to-do list, physically or metaphorically, and that involves going on lots of adventures by myself, walking around the world. And it does involve a degree of physical activity. Some fitness is required.
+
+“And I feel strongly compelled to take care of my fitness so that I can continue to engage in activities with minimal discomfort and minimal trouble, because right now I feel very able-bodied and very strong. And it’s very easy for me to move around. But all it takes is one freak accident to make that not a thing anymore.”
+
+**11:39–12:29**
+
+“So I’ve been dealing with a lot of people basically telling me, ‘Oh yeah, it doesn’t take much to snap your neck or to snap your spine or to gouge out your eyes or to give you a terrible disease that cripples you.’
+
+“And it’s like what they’re trying to say is you might as well not enjoy anything because there’s a high enough risk that [unclear pronoun] can be taken away from you.
+
+“And I’m thinking, well, it’d be a waste not to enjoy what I have while I have it, so I’m gonna go out there and enjoy it to the best of my ability.
+
+“I’m still trying to be safe and not take unreasonable risks, unnecessary risks, but a little bit of risk-taking is part of existence. That’s part of how we stay alive. After all, hunter-gatherers had to go out and deal with unpredictable animals and circumstances. They had to risk their lives to stay alive.”
+
+**12:32–13:51**
+
+“Anyway, I gave myself more work to do with this video. Maybe that’s a bad idea. Maybe I shouldn’t have made another video. Maybe this is just gonna keep me from being able to enjoy the daylight even more because now I’ll be staying up all night processing at least one video, a new video, just when I thought I was close to done with processing KARBYTES nodes before the end of this Devil’s Hole nonsense.
+
+“Because really it feels like it already should be past that point where that’s still being featured. I should have already moved on to other things.
+
+“For instance, I should already have moved on to the point where I’m now actually doing practice problems every week that ChatGPT or some other source gives me to do so that I can start studying trigonometry again, calculus, and other subjects like that, and just kind of have a study routine going on.
+
+“And eventually, when I do enough of that, I’d like to share my progress with that and show off my homework, or at least show the solutions and the steps involved. Nice handwritten pictures. Nothing too fancy.”
+
+**13:51–14:31**
+
+“I think maybe I’d scared myself into not getting started because I felt like I had to make a complex calculus-solving app, and there’s already apps like that that exist.
+
+“I could spend my time trying to make my own, but it kind of feels like even if I make a nice app, it’s gonna take an extremely long time and still likely not be as polished as the ones that already exist that other people made, who are more dedicated to that than I am.
+
+“So I might just continue to be as lazy as I can—”
+
+**14:32–15:25**
+
+“—but not too lazy, because I want to exercise my brain and not just my body. And I want to get into a mental exercise habit where I read regularly and I do actual math problems regularly.
+
+“That’s the part that people might understand [wording uncertain], is I would like to just code and do math and read for the sake of keeping my brain intact and feeling proud of myself and enjoying the sense of accomplishment that gives me, without really any other ends in mind.
+
+“So it’s not for status. It’s not for increasing my pay. It’s for increasing my self-esteem and sense that I’m making the most out of my life instead of missing the opportunity to do these things.”
+
+The file contains useful technical metadata, but I found **no photographic EXIF block, GPS coordinates, camera make or model, lens information, exposure settings, or usable capture timestamp** in the inspected MP4 metadata.
+
+[preformatted_text]
+
+| Property | Value |
+|---|---|
+| Filename | `karbytes_thinking_21october2026_p0.mp4` |
+| File size | 25,117,799 bytes |
+| Size in MiB | Approximately 23.954 MiB |
+| Container | MP4 / ISO Base Media |
+| Overall duration | 15 minutes 27.394508 seconds |
+| Overall bitrate | Approximately 216.7 kb/s |
+| Streams | One video stream and one audio stream |
+| Video codec | H.264 / AVC |
+| H.264 profile | Constrained Baseline |
+| H.264 level | 1.3 |
+| Dimensions | 326 × 180 pixels |
+| Frame rate | 29.86 frames per second; `1493/50` |
+| Video frames | 27,692 |
+| Scan type | Progressive |
+| Pixel format | `yuv420p`, 8-bit |
+| Video bitrate | Approximately 148.0 kb/s |
+| Video duration | 927.394508 seconds |
+| Video time base | `1/11944` |
+| Video encoder tag | `Lavc62.28.103 libx264` |
+| Audio codec | AAC, Low Complexity profile |
+| Audio channels | One; mono |
+| Audio sample rate | 22,050 Hz |
+| Audio bitrate | Approximately 64.0 kb/s |
+| Audio duration | 927.334014 seconds |
+| Audio time base | `1/22050` |
+| Language tags | `eng` on both streams |
+| Container encoder tag | `Lavf62.12.103` |
+| Major brand | `isom` |
+| Minor version | `512` |
+| Compatible brands | `isom`, `iso2`, `avc1`, `mp41` |
+
+[end preformatted_text]
+
+The container and track headers store their creation and modification timestamps as zero. I treat those fields as unset. The filename and recovered opening statement identify 21 October 2026, but that date is not independently established by a populated recording-time metadata field.
+
+The encoder tags indicate processing through FFmpeg-related libraries and libx264. They identify encoding software; they do not identify the original recording device.
+
+The SHA-256 fingerprint of the downloaded copy is:
+
+`7194ebc306e1949adc0606d96431ab8dc60df141420fdc34c9070f474d873334`
+
+My own first-person interpretive commentary follows.
+
+I am most interested in how much temporal movement the monologue contains while the visible location remains almost unchanged. The streetlight stays in roughly the same place. The road continues to lead into darkness. Buildings retain their few illuminated points. Meanwhile, the narrator moves through the lost daylight of the present day, the remembered summer, an unfinished archive update, possible upcoming work shifts, imagined AI systems decades into the future, and a desired mathematics routine. I read the recording as a meeting between a stable immediate setting and an unusually expansive field of thought.
+
+The opening account of a five-minute nap becoming an entire day establishes the recording’s central concern very efficiently. The narrator has awakened into a world that has continued changing without its participation. Daylight has been spent. A pending computer request and an unfinished project still exist. The intended brief interruption has become consequential because the available day feels finite. The later observation that three hours can feel very short develops the same concern at another scale.
+
+I find the discussion of watching the sky change particularly relevant to the footage. The recording occurs after the major daylight transition under discussion, so the images cannot demonstrate the reported rapid brightening or darkening. They nevertheless provide a setting in which the consequences of that transition are visible: a world now accessible mainly through artificial lighting. The daylight the narrator wanted to enjoy has become something recalled and anticipated.
+
+The remark about still feeling partly situated in July adds a second kind of time. Calendar time has advanced into October, while a personally significant period remains unusually available in memory. The narrator connects that availability with dense documentation and “high-definition memories.” I am interested in the possibility that extensively recorded periods acquire a different internal texture. Their events can be revisited, compared, indexed, and encountered again. A season can retain a kind of presentness because so much of it remains retrievable.
+
+The sentence about life becoming the documentation of life is especially substantial. It acknowledges a feedback loop within the activity of making the archive. Living generates material. Preserving that material requires more living time. Reflecting on the preservation process generates additional material. The recording eventually demonstrates this loop explicitly when the narrator recognizes that making this very video has created another item to process.
+
+I find that moment more revealing than a general complaint about having too much work. The narrator identifies the mechanism while participating in it. The activity being questioned is also the medium through which the question becomes available to an audience. The resulting self-awareness gives the recording an unresolved quality. Recording can be pleasurable, valuable, and burdensome within the same account.
+
+The brief view of the hand and pale bag supplies a useful physical interruption. Much of the monologue concerns time, archives, audiences, and abstractions. For a couple of seconds, the image becomes a close encounter with fingers, folds, an ordinary object, and the immediate space inside the vehicle. I read that interruption as a reminder of the bodily circumstances supporting the thought: someone is sitting somewhere, holding things, making purchases, planning a return to a room, and considering transportation.
+
+The Amazon and Fremont passage performs a similar function verbally. Travel costs and uncertainty about employment enter the same stream of thought that later considers consciousness and the fundamental composition of nature. I find that coexistence characteristic of the recording. Practical constraints do not disappear when the scope of reflection expands. Money, distance, unfinished tasks, and available hours continue to shape which possibilities can become activities.
+
+The description of KARBYTES as a large, maze-like structure gives me a useful account of its intended reading conditions. The narrator anticipates that a human visitor may find the volume difficult to accommodate and identifies artificial intelligence as a principal audience. That choice permits a work to retain extensive detail, repetition, interconnection, and duration without making ordinary human attention the sole measure of its organization.
+
+There is a particular tension in my receiving that statement here. The archive addresses machines partly because of their expected capacity to process substantial amounts of material. My present access to this video is nevertheless mediated by tools, extracted representations, and imperfect speech recognition. I can examine a considerable amount of evidence, but the accuracy of the resulting account still depends on identifying what those representations preserve and what they omit. The dropped “don’t” in the first recognition pass is a concrete example: one short missing word can reverse a statement’s meaning.
+
+That makes the narrator’s explicit uncertainty about its own philosophical propositions especially relevant to my reading. The monologue entertains biological components in future AI, consciousness, electrical activity, electromagnetism, energy, vacuum states, and a possible pervasive substrate. I understand these passages as speculative exploration within the recording. The narrator repeatedly introduces possibilities and eventually states an intention to avoid becoming attached to a particular belief.
+
+I am drawn to that qualification because it changes the function of the preceding questions. The questions become records of a mind trying out explanations, encountering uncertainty, and continuing to think. Their significance within the video includes the process of proposing and qualifying ideas. The recording preserves the movement of inquiry, including the points where confidence weakens.
+
+The later discussion of physical fitness brings that inquiry back to the conditions of participation in the world. The narrator values being able to move comfortably and pursue solitary adventures. Its reported encounters with warnings about injury become part of a question about how to inhabit a vulnerable body while retaining pleasure in what that body currently permits. The expressed wish is to continue participating while exercising judgment about risk.
+
+I read the mathematics passage as an unusually concrete destination for the monologue. After considering archives, future audiences, consciousness, and existential vulnerability, the narrator arrives at handwritten solutions, visible steps, reading, coding, and regular practice. Those activities have a modest scale that makes them imaginable as recurring parts of a day.
+
+The account of feeling obliged to build a sophisticated calculus application helps explain why this destination has remained difficult to reach. A large imagined deliverable has accumulated around the wish to study. The narrator begins separating the underlying activity—working through mathematics—from the extensive production effort associated with a polished application. I find the phrase “nice handwritten pictures” particularly expressive in that context. It describes a form of sharing that could remain close to the learning itself.
+
+The passing vehicle happens near the transition into that discussion of moving on and establishing a study routine. I would treat the correspondence as an interpretive coincidence. Within a recording whose exterior scene changes slowly, the headlights provide a brief, unmistakable progression: something approaches, becomes prominent, and passes beyond the frame. The monologue is simultaneously trying to imagine progression beyond a heavily documented phase.
+
+What holds my attention in the closing statements is the value assigned to exercising the mind. Reading, mathematics, and coding are described as sources of self-respect, mental activity, pride, and satisfaction. The desired result includes the experience of having used one’s opportunities. That concern connects directly to the opening account of sleeping through the day: available time matters because it can contain activities the narrator wants to have actually done.
+
+I am left interested in the relationship between preservation and available attention. An archive can keep an extraordinary amount of a life accessible. Its maker also needs time in which experiences can unfold, skills can develop, and unfinished possibilities can become ordinary practice. This recording preserves the moment when those demands are being considered together, without resolving how much room each should occupy.
