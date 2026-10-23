@@ -244,6 +244,8 @@ I cannot reliably supply a directly heard description of raspiness, breathiness,
 
 The file contains MP4/QuickTime metadata rather than a conventional photographic EXIF record. The principal retrieved fields are:
 
+[preformatted_text]
+
 | Property | Retrieved value |
 |---|---|
 | Filename | `karbytes_thinking_22october2026_p0.mp4` |
@@ -272,6 +274,8 @@ The file contains MP4/QuickTime metadata rather than a conventional photographic
 | Major brand | `mp42` |
 | Compatible brands | `isommp42` |
 | Stream language tags | `eng` |
+
+[end preformatted_text]
 
 The embedded creation timestamp corresponds to 1:03:33 PM on 22 October 2026 in California’s daylight-saving civil time, PDT. A container creation field is not independent proof of the exact recording start time, particularly when a file carries encoding or processing metadata.
 
@@ -324,3 +328,7 @@ The ending then returns attention to the laptop. That return gives the sequence 
 I find the unresolved quality of that ending appropriate to what the recording actually contains. The planned archival cutoff remains ahead of the moment being documented. The outdoor activity can continue beyond the short excursion shown. The text on the laptop remains too extensive to be absorbed within the final few seconds.
 
 What stays with me is the continuity among those different forms of attention: looking at an image, navigating text, holding a disc package, inspecting something from the ground, looking into trees, and returning to the computer. The recording gives each of those actions a place within the same short span of a day.
+
+karbytes:
+
+To be clear, the gummies depicted in the video are cannabis (sativa) edibles and the only humanoid depicted by any of the media files I will be sharing with you in this conversation is me (i.e. karbytes) and that person is also the operator of the recording device (i.e. Android smartphone) and the author of every plain-text file or HTML file featured in this conversation. (Right now (i.e. at the time this paragraph is being composed), it is approximately (i.e. within five minutes of) 12:31AM Pacific Standard Time on 23_OCTOBER_2026 (and I am "localized" to The Burrow in my usual floor-bound, prone, and cocoon-encased configuration in front of my laptop computer)).
