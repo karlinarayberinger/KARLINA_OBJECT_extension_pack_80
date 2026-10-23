@@ -3370,3 +3370,23 @@ Print the karbytes-assigned landmark names and their respective longitude and la
 
 landmark_name.latitude = [relevant screenshot value]
 landmark_name.longitude = [relevant screenshot value]
+
+ChatGPT:
+
+[Worked for 1m 24s]
+
+[preformatted_text]
+
+rocky_ridge_radio_tower.latitude = 37°48′57.47″N  
+rocky_ridge_radio_tower.longitude = 122°03′44.40″W
+
+ramage_peak.latitude = 37°47′23.49″N  
+ramage_peak.longitude = 122°04′06.64″W
+
+the_wall.latitude = 37°47′04.79″N  
+the_wall.longitude = 122°04′33.28″W
+
+dinosaur_ridge.latitude = 37°45′21.09″N  
+dinosaur_ridge.longitude = 122°04′05.77″W
+
+[end preformatted_text]
