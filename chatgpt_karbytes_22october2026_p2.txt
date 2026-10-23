@@ -50,6 +50,8 @@ relevant_KARBYTES_files[19]: https://karbytesforlifeblog.wordpress.com/journal_k
 
 relevant_KARBYTES_files[20]: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_09september2026_a2/
 
+relevant_KARBYTES_files[21]: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_09september2026_a1/
+
 * * *
 
 karbytes:
@@ -3390,3 +3392,13 @@ dinosaur_ridge.latitude = 37°45′21.09″N
 dinosaur_ridge.longitude = 122°04′05.77″W
 
 [end preformatted_text]
+
+karbytes:
+
+The following web page (from within the First Official Major KARBYTES Hiatus (Summer 2026)) documents an experience of karbytes learning about EXIF emdedded data in Android phone generated photographic images which document karbytes' locations in physical space-time. There may be data about the precise location of The Burrow in that web page in terms of longitude and latitude coordinates. If possible, also generate location data about The Burrow in the same format as the other landmark locales. Also...
+
+Generate a maximally detailed (plain-text only, zero-url) essay summarizing the following document:
+
+https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_09september2026_a1/
+
+(This time favor constraining the response to in-conversation text only but choose instead to format the response as a downloadable markdown file if you think that would make for a more detail-rich report).
