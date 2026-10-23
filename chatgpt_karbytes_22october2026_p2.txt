@@ -3363,3 +3363,10 @@ ChatGPT:
 Understood. Your clarification places the bottle retrieval in karbytes_in_the_big_green_thing_22oct2026_p15.mp4 at The Wall, whose coordinates appear in the linked Google Earth screenshots. Ramage Peak, Dinosaur Ridge, and Rocky Ridge Radio Tower provide surrounding geographical orientation.
 
 I’ll distinguish that October 22 retrieval at The Wall from the September recovery of Water Bottle X at the Corral Group Camp water spout.
+
+karbytes:
+
+Print the karbytes-assigned landmark names and their respective longitude and latitude coordinates in the following format (for each landmark):
+
+landmark_name.latitude = [relevant screenshot value]
+landmark_name.longitude = [relevant screenshot value]
