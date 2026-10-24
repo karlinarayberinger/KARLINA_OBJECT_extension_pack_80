@@ -1319,3 +1319,46 @@ On the following web page, verify whether or not the sub-index pages whose index
 https://karbytessupporter.github.io/karbytes_wayback_machine_saves_precision_batches_extension_1/
 
 (This time favor constraining the response to in-conversation text only instead of generating a downloadable markdown file).
+
+ChatGPT:
+
+[Worked for 3m 47s]
+
+Yes. Sub-index pages 272 through 282 collectively contain all 184 distinct raw-file URLs and all 24 destinations represented by “(*)” links on the micro-directory. They also include the micro-directory’s own URL, producing exactly 209 distinct hyperlinks. Each appears once.
+
+Every one of those 209 hyperlinks displays its complete destination URL as its visible text. I found no label–destination mismatches, missing resource URLs, unexpected resource URLs, or duplicate entries.
+
+All eleven sub-index pages returned HTTP 200 responses. Their downloaded HTML matched their current repository files byte for byte. The main precision-batches index also links correctly to all eleven pages, with each of those links displaying its full destination URL.
+
+The distribution is:
+
+[preformatted_text]
+
+| Sub-index | Raw-file URLs | Asterisk-destination URLs | Micro-directory URL | Total |
+|---|---:|---:|---:|---:|
+| 272 | 19 | 0 | 1 | 20 |
+| 273 | 13 | 8 | 0 | 21 |
+| 274 | 18 | 1 | 0 | 19 |
+| 275 | 16 | 4 | 0 | 20 |
+| 276 | 18 | 0 | 0 | 18 |
+| 277 | 15 | 4 | 0 | 19 |
+| 278 | 18 | 1 | 0 | 19 |
+| 279 | 17 | 2 | 0 | 19 |
+| 280 | 20 | 1 | 0 | 21 |
+| 281 | 20 | 0 | 0 | 20 |
+| 282 | 10 | 3 | 0 | 13 |
+| Total | 184 | 24 | 1 | 209 |
+
+[end preformatted_text]
+
+Every page stays within the main index’s stated maximum of 21 hyperlinks per sub-index page. The micro-directory URL is the first hyperlink on page 272.
+
+The 24 asterisk destinations are covered in full, including the two macro-directory pages and the three precision-batch indexes hosted outside extension pack 80’s own GitHub Pages location. In the sub-index pages, their visible labels are their full URLs.
+
+Page 282 includes the recent additions relevant to this audit: both four-seasons yin-yang images; the raw and rendered versions of the two October 23 conversation pages and the October 23 journal page; the extension-pack-81 directory snapshot; chatgpt_karbytes_23october2026_p1.txt; and the October 24 Patreon, Bluesky, and Minds screenshots.
+
+There is one scope distinction worth making explicit. The batches cover all the raw-file and asterisk-destination links discussed in the previous audit. They omit eight ancillary destinations appearing elsewhere on the micro-directory: five Wikipedia references, the GitHub repository’s browsing page, the KARBYTES_ULTIMATE_ARCHIVE home page, and the PUBLIC_DOMAIN licensing page. Therefore, coverage is complete for the requested resource links; it does not encompass literally every introductory, navigational, and licensing hyperlink on the micro-directory.
+
+I also observed a difference between the current repository source and the publicly served micro-directory. The repository’s index.html now removes the duplicated karbytes_in_the_big_green_thing_16oct2026_p4.mp4 entry and places the Burrow file group before the liminal-space group. The public micro-directory continued returning the earlier version during my checks, including when I requested a fresh copy with cache avoidance.
+
+That difference does not affect this comparison: both versions contain exactly the same 184 distinct raw-file URLs and 24 asterisk destinations. The sub-index pages cover that complete set without reproducing the older micro-directory’s duplicate entry.
