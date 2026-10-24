@@ -1421,4 +1421,10 @@ Two minor issues remain in the linked precision-batch documents. The original in
 
 karbytes:
 
-The discrepancy of the KARLINA_OBJECT_extension_pack_80 copy of the source code of macro-directory-page-1 not being current with the live version of macro-directory-page-1 is intentional (because KARLINA_OBJECT_extension_pack_80 was assumed to be finalized until I noticed what appeared to be a missing hyperlink in the source code page of the micro-directory surface web page for KARLINA_OBJECT_extension_pack_80 (i.e. index.html of the @karlinarayberinger KARLINA_OBJECT_extension_pack_80 GitHub repository)).
+The discrepancy of the KARLINA_OBJECT_extension_pack_80 copy of the source code of macro-directory-page-1 not being current with the live version of macro-directory-page-1 is intentional (because KARLINA_OBJECT_extension_pack_80 was assumed to be finalized until I noticed what appeared to be a missing hyperlink in the source code file of the micro-directory surface web page for KARLINA_OBJECT_extension_pack_80 (i.e. index.html of the @karlinarayberinger KARLINA_OBJECT_extension_pack_80 GitHub repository)).
+
+ChatGPT:
+
+Understood. The macro-directory-page-1 source stored in extension pack 80 is an intentional historical snapshot and requires no update. Reopening index.html to investigate a potentially missing hyperlink does not imply refreshing the other stored documents.
+
+With that clarification, the latest audit found no file-coverage or link-destination errors: all 184 files are correctly listed, and all 24 asterisk links reach the correct pages.
