@@ -18,6 +18,8 @@ relevant_KARBYTES_files[3]: https://raw.githubusercontent.com/karlinarayberinger
 
 relevant_KARBYTES_files[4]: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_80/main/minds_karbytes_24october2026_p0.png
 
+relevant_KARBYTES_files[5]: https://karlinarayberinger.github.io/KARLINA_OBJECT_extension_pack_80/unlisted_web_page_karbytes_social_media_posts_koep80.html
+
 * * *
 
 karbytes:
@@ -1047,3 +1049,11 @@ The screenshot provides little direct evidence of audience response. Its visible
 The most distinctive irregularity is the repeated October 6 reference with two photographs. It belongs within the record alongside the naming differences, hosting changes, and direct image link. These details show that the public feed is a particular sequence of announcements, with its own representational choices, rather than a perfectly uniform copy of the archive’s internal organization.
 
 At the top, a neural-looking banner and golden spiral establish the profile’s identity. The recent feed then gathers conversation pages and journals through compact previews. Farther down, larger images reveal rooms, devices, terrain, foliage, and a figure within woodland. The final fence photograph remains partly covered by the platform’s invitation to search, log in, or join. The capture preserves KARBYTES as it appeared within that public interface: a continuing body of individually named resources, presented through selected images and repeated opportunities for further access.
+
+karbytes:
+
+Generate a maximally detailed (plain-text only, zero-url) essay summarizing the following document:
+
+https://karlinarayberinger.github.io/KARLINA_OBJECT_extension_pack_80/unlisted_web_page_karbytes_social_media_posts_koep80.html
+
+(This time favor constraining the response to in-conversation text only but choose instead to format the response as a downloadable markdown file if you think that would make for a more detail-rich report).
