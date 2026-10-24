@@ -1251,3 +1251,61 @@ Also verify whether or not every hyperlink on that micro-directory web page whos
 Finally, identify any discrepancies you notice while fulfilling this request.
 
 (This time favor constraining the response to in-conversation text only instead of generating a downloadable markdown file).
+
+ChatGPT:
+
+[Worked for 9m 2s]
+
+The micro-directory passes both requested link checks: every file in KARLINA_OBJECT_extension_pack_80 has a corresponding full-URL raw-file hyperlink, and all 24 “(*)” hyperlinks lead to the correct corresponding HTML documents. I found one duplicated entry and two ordering discrepancies.
+
+I checked the live directory against the complete, recursive listing of the repository’s main branch at commit 78a467796b87043a5821dd6147a84b9396778d97. The repository listing was not truncated. I also rechecked both the repository and the live directory afterward; neither had changed during this audit.
+
+The raw-file links are complete and correctly addressed:
+
+- The repository contains 184 files.
+
+- The micro-directory contains 185 raw-file hyperlink occurrences, representing 184 distinct files.
+
+- No repository files are missing from the directory.
+
+- No raw-file hyperlinks name nonexistent repository files.
+
+- Every displayed raw-file URL exactly matches its underlying hyperlink destination.
+
+- Every raw-file destination specifies the correct owner, repository, main branch, filename, capitalization, and extension.
+
+- All 184 distinct raw-file URLs returned HTTP 200 responses. Each response’s reported file size matched the repository’s recorded size.
+
+These checks include the repository’s HTML, text, Markdown, Python, CSS, image, video, and license files. Filenames containing accented characters or square brackets also resolved successfully.
+
+For the asterisk links, I went beyond checking whether a destination merely existed. I downloaded all 24 destination pages and their adjacent raw HTML files. Every destination returned HTTP 200, and every downloaded page was byte-for-byte identical to its corresponding raw HTML file. The raw HTML files also matched their recorded Git blob checksums.
+
+Those 24 verified asterisk links comprise:
+
+- Two macro-directory pages.
+
+- The raw-file directory for KARBYTES_ULTIMATE_ARCHIVE.
+
+- Fourteen ChatGPT conversation pages.
+
+- Two journal pages.
+
+- The extension-pack-80 social-media posting log.
+
+- Three Wayback Machine precision-batch index pages.
+
+- The mdisc_karbytes2026_9 page.
+
+Five asterisk links intentionally point outside extension pack 80’s own GitHub Pages location. The two macro-directory links point into KARBYTES_ULTIMATE_ARCHIVE, and the three precision-batch links point to the appropriate karbytessupporter sites. These destinations are correct: their returned HTML exactly matches the respective copies stored in extension pack 80.
+
+The discrepancies I found are as follows.
+
+First, karbytes_in_the_big_green_thing_16oct2026_p4.mp4 appears twice consecutively in the directory. The duplicate paragraphs occur at HTML source lines 220 and 222. Both displayed URLs and both destinations are correct, but they reference the same file. This duplication explains why there are 185 raw-file link occurrences for 184 repository files. Removing either identical paragraph would produce one raw-file entry per repository file.
+
+Second, the directory does not entirely follow the repository’s filename order, despite its introductory statement that it does. The karbytes_in_liminal_space_20october2026_* entries appear before the karbytes_in_its_burrow_* entries. In the repository’s filename order, the Burrow group comes first, followed by the liminal-space group, followed by the big-green-thing group.
+
+Third, karbytes_ultimate_archive_updates.txt is inserted between karbytes_thinking_16october2026_p2.mp4 and karbytes_thinking_18october2026_p0.mp4. In the repository’s filename order, the updates file belongs after the entire karbytes_thinking_* sequence. This is another ordering inconsistency; its hyperlink itself is correct.
+
+There is also an optional presentation inconsistency: five HTML files have raw-file links without accompanying “(*)” links. They are KARBYTES_FOR_LIFE_BLOG.html, KARBYTES_ULTIMATE_ARCHIVE_home_page.html, KARLINA_OBJECT.html, index.html, and raw_github_files_directory_KARLINA_OBJECT_extension_pack_81_[23october2026].html. Their raw-file links are present and correct, so this does not violate either of your requested link checks. Adding asterisks would only be necessary if you intend every HTML entry to offer a separate rendered-page link.
+
+While checking the destination documents, I noticed two additional metadata issues in the precision-batch pages. The original index and both extension indexes use the same generic browser-tab title, although their visible page headings distinguish them. Also, the extension_1 page describes itself as the “second” index, just as extension_0 does; following their previous/next navigation sequence, extension_1 is the third index overall. Neither issue causes an asterisk link to open the wrong document.
